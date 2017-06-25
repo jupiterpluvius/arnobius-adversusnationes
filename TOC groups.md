@@ -1,6 +1,6 @@
-# ARNOBIUS : ADVERSUS NATIONES
+# ARNOBIUS: ADVERSUS NATIONES
 
-## Response to the pagans: Christians cause the world's evils
+## Responses to the pagans: Christians cause the world's evils
 
 	- Christian responsibility for calamities 1.1
 	- Calamities are longstanding and unwavering 1.2-3
