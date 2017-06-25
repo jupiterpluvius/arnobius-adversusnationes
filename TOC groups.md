@@ -1,4 +1,4 @@
-# ARNOBIUS ADVERSUS NATIONES
+# ARNOBIUS : ADVERSUS NATIONES
 
 ## Response to the pagans: Christians cause the world's evils
 	- Christian responsibility for calamities 1.1
@@ -58,7 +58,7 @@
 	- Persecution is permitted by God? 2.76-78
 	- Christians need only worship one god 3.2
 	- If the gods exist, Christians worship them as well through God 3.3
-	- Comparison of pagan and Christian theology 7.35 [49]	- 37 [51] 
+	- Comparison of pagan and Christian theology 7.35 [49]	- 37 [51]
 
 ## God vs the Pagan Gods
 	- How many pagan gods are there? 3.5
@@ -122,7 +122,7 @@
 
 	- Everyday language contains sacrilegious references to gods 5.45
 	- Jupiter and the “dancer” 7.39 [36]
- 
+
 ## The uselessness of temples 1: cui bono?
 	- Temples, images, and sacrifices are worthy of condemnation 6.1
 	- We build no temples because the gods need none 6.3
