@@ -20,10 +20,10 @@
 		- ...unless they are made immortal by God through belief in him	2.32
 	- Why would an immortal soul leave heaven and come to earth?	2.37
 		- Were souls sent to earth to become worse?!	2.39-42
-		- Or did they tend to create evil themselves?	2.43
+		- Or did they tend to create evil themselves.	2.43
 		- Why would God allow this?	2.44-45
 		- God has no part in such evil-tending creations.	2.46
-		- And humans are in position to discover a correct answer either.	2.47-48
+		- And humans are in no position to discover a correct answer either.	2.47-48
 		- An agnostic position re: souls is only reasonable.	2.51
 
 
