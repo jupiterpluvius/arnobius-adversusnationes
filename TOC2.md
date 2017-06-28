@@ -1,6 +1,6 @@
 # Arnobius
 
-## Pieces
+## Contents
 
 - **The soul is *not* immortal (2.14-51)**
 	- The danger of hell: what is immortal experiences no pain	2.14
