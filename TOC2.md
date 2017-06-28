@@ -63,8 +63,8 @@
 	- Miscellaneous miracles and the resurrection 1.46
 	- Christ overcame the laws of the fates to reveal the nature of God 1.47
  - Reasons for the incarnation 1.60-61
- - Only Christ’s human body was crucified 1.62
- - The crucifixion was voluntary: Christ could have avoided a human death 1.63 
+   - Only Christ’s human body was crucified 1.62
+   - The crucifixion was voluntary: Christ could have avoided a human death 1.63
 
 
 - **The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)**
@@ -86,7 +86,24 @@
  - Summary of all opinions on God and gods 7.35 [49]
 
 
-- The defense against the charge of "calamities"
+- **The defense against the charge of "calamities"**
+ - Charge: the Christians are responsible for the calamities 1.1 (Legal argument structure)
+ - Refutation: no new calamities have occurred since Christianity's birth 1.2
+   - The current calamities are longstanding 1.3
+   - Many historical calamities occurred before Christianity came about 1.5
+ - There have been fewer calamities because of Christ's pacifist message 1.6
+ - What is the origin of calamities? 1.7
+   - Results of nature? Purification of the earth? 1.8
+	- The universe does not exist for our comforts 1.9-11
+	- Conceit the origin? Things happen for the good of all, not the individual 1.12
+ - Seasons of prosperity and peace have occurred 1.13-14
+   - Times of both scarcity and abundance 1.15
+	 - are the gods only sometimes indignant about the Christians?
+ - The gods inflict calamities on all, not just Christians 1.21-22
+   - True gods would not be so jealous and childish 1.23
+     - Pagan priests originated this complaint 1.24
+ - The pagans originate any calamities by denying the existence of the gods 3.36
+
 
 - Anthropomorphism of the pagan gods (how many sections?)
 	- Appearance
