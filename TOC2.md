@@ -27,7 +27,8 @@
 		- An agnostic position re: souls is only reasonable.	2.51
 
 
-- **Defense of the novelty of Christianity**
+- **Defense of the novelty of Christianity (2.66-2.75)**
+ - Ancient accounts of religion have more fictions than recent ones 1.57
  - Old does not mean better 2.66
    - Men seek that which is more valuable and pleasing, not what is traditional 2.66
  - The pagans also adopt novelties: list of ancient laws that are no longer followed 2.67
@@ -36,7 +37,7 @@
  - Christianity is not new but recently revealed 2.72
    - Likewise, pagans worship new, foreign deities frequently 2.73 (continuation of 2.67- do we want to organize chronlogically or in terms of argument?)
  - The reason for the late revelation of Christianity is unknown (apophaticism) 2.74 (really a continuation of 2.72)
-   - Christ was sent when humanity was ready 2.75 
+   - Christ was sent when humanity was ready 2.75
 
 
  - Persecution is permitted by God? 2.76-78
@@ -45,11 +46,28 @@
  - Comparison of pagan and Christian theology 7.35 [49]	- 37 [51]
 
 
-- Jesus's miracles as proof of divinity
-- Defense of Jesus's humanity
+- **Jesus's miracles as proof of divinity (may not need to be separate section, as some of this is included in the defense of Jesus's humanity)**
+  - Christ’s powers and miracles 2.11
+	- Christ’s Miracles 1.45-47
+	- Miracles and Christianity have historical evidence 1.54-56
 
 
-- The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)
+- **Defense of Jesus's humanity (if combined with miracles, could be defense of the dual natures of Christ (being both fully human and fully divine))**
+  - Christians worship a human being: does this make pagan gods jealous? 1.36
+   - Hypocrisy: Pagans deified many humans 1.37
+ - Christ's teachings make him worthy of worship 1.38
+ - Christ's violent death does not undermine his authority 1.40
+   - Many who are worshipped by pagans died in similar ways as Christ 1.41 (last sentence of 1.39 could be added to this section)
+ - Christ’s Miracles: was he really one of us? 1.45-47
+   - Miracles of healing 1.45
+	- Miscellaneous miracles and the resurrection 1.46
+	- Christ overcame the laws of the fates to reveal the nature of God 1.47
+ - Reasons for the incarnation 1.60-61
+ - Only Christ’s human body was crucified 1.62
+ - The crucifixion was voluntary: Christ could have avoided a human death 1.63 
+
+
+- **The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)**
  - The origin of calamities is unimaginable 1.7 (sort of fits)
  - You are arrogant and conceited if you know why God created 1.12
  - Why God appeared on Earth is unknown 1.61
