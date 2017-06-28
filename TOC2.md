@@ -103,6 +103,7 @@
    - True gods would not be so jealous and childish 1.23
      - Pagan priests originated this complaint 1.24
  - The pagans originate any calamities by denying the existence of the gods 3.36
+ - (Could include 7.10-11, which are about how the gods spare those who sacrifice and grant them good fortune)
 
 
 - Anthropomorphism of the pagan gods (how many sections?)
@@ -110,8 +111,53 @@
 	- Behavior
 	- The absurdity of allegory (and euphemism)
 	- ?
-- The uselessness of temples
-- The irrationality of sacrifice
+     - 6.10-13 Do not know if they are true likenesses of gods
+
+- **The uselessness of temples**
+ - Temples, images, and sacrifices are worthy of condemnation; real gods would scorn the ceremonial practices of the pagans 6.1
+ - The gods do not need temples, as they transcend human needs 6.3
+   - Sarcasm: aren't the pagan gods omnipresent? 6.4
+	 - If not, the gods might not hear you, even in a temple 6.5
+ - Images of the gods are pointless invocations, just like temples, and are an affront to the deities 6.8
+   - Pagans make supplications to senseless images 6.9
+	- These images have no basis in reality or in knowledge of the gods 6.10
+ - Some of these images are ridiculous: why do pagans worship statues? 6.11
+   - These representations are boorish and meaningless, fabricated by men 6.12
+ - Some images were modelled on human beings: this makes a farce of divinity 6.13
+ - Images impress the rabble 6.24-26
+ - Sarcasm: Why do servants, not the gods, guard the temples? 6.20
+   - Answer: The temples are often robbed or sacked: the gods do not guard the temples 6.21
+	  - The pagan gods do not care for temples and idols 6.22
+
+Separate section for images and idols? Include them in temples section? It makes sense to lump them together, as they are both human representations for the divine and the arguments are intertwined. Could also put in the anthropomorphism section.
+
+- **The irrationality of sacrifice**
+ - True worship is in the heart; sacrifice achieves nothing 4.30
+ - Real gods would scorn this practice 6.1 (repeat from temples section)
+   - True gods neither desire nor demand sacrifice 7.1
+ - What is the purpose of sacrifice?
+   - Are the gods nourished by sacrifices? No, they're incorporeal 7.3
+	- Do sacrifices give the gods pleasure? No, they should be free of emotion 7.4
+	- Do sacrifices appease the gods? 7.5
+	 - If so, how do we know when to sacrifice? 7.6
+	 - We do not know the reasons for the gods anger against men: they created no laws 7.7
+	 - Sinning is commonplace when pardon can be bought 7.8
+ - Sacrifice of animals is pointless: cannot shift the anger and bloodlust of a god 7.9
+   - Do sacrifices grant good fortune? 7.10 (order of argument could move up)
+	 - If so, why are there innumerable hapless people? 7.11
+	 - Favors are not for sale 7.12
+	 - the gods are not attracted by gifts, and cannot be bought 7.12
+ - Why not sacrifice other animals or even plants? 7.16
+   - These fit the criterion of nourishment 7.16
+ - Analogy: if humans were gods 7.17
+   - We would not wish for the dung of animals in worship 7.17
+ - Why are certain animals sacrificed to certain gods? Humorous 7.18
+   - Did the gods divide up the animals among themselves for sacrifice? 7.21
+	-  Examples of nonsense sacrifice: reduced to vain nothings 7.22
+ - Why is wine used in sacrifices? Are the gods parched? Humorous 7.29
+   - Wine is not a propitious honor 7.30
+ - Other curious features of sacrifice: refutation of various festivals 7.32
+
 
 - Creation?
 - Soteriology?
