@@ -31,7 +31,23 @@
 - Jesus's miracles as proof of divinity
 - Defense of Jesus's humanity
 
-- The limits of human knowledge and investigation: apophaticism
+- The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our selection)
+ - The origin of calamities is unimaginable 1.7 (sort of fits)
+ - You are arrogant and conceited if you know why God created 1.12
+ - Why God appeared on Earth is unknown 1.61
+ - Credulity and lack of comprehension for pagans and Christians 2.10
+ - Investigation of the true origin of souls is pointless 2.47-48
+ - Other philosophical questions need not be examined 2.55-57 (2.58-59 continue this)
+ - Christ taught us to disregard questions of origins, causes, and reasons 2.60-61
+ - The reason for the late revelation of Christianity is unknown 2.74
+ - God does not have a gender (could possibly fit) 3.8
+ - God is transcendent in form (cannot tell if this would be apophatic or cataphatic) 3.12
+ - God's shape and qualities are unknown to Christians 3.17-19 (hypocritically says this of pagans in 3.37-38, 3.42)
+ - Human error is no excuse, but much is beyond understanding 4.18
+ - Reason the Christians do not build temples (God's desires are beyond understanding) 6.1-first two paragraphs of 6.3
+ - How can idols be true likenesses? 6.10
+ - Who are the true gods? 7.2
+ - Summary of all opinions on God and gods 7.35 [49]
 
 - The defense against the charge of "calamities"
 
