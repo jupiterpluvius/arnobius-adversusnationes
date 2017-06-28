@@ -27,11 +27,29 @@
 		- An agnostic position re: souls is only reasonable.	2.51
 
 
-- Defense of the novelty of Christianity
+- **Defense of the novelty of Christianity**
+ - Old does not mean better 2.66
+   - Men seek that which is more valuable and pleasing, not what is traditional 2.66
+ - The pagans also adopt novelties: list of ancient laws that are no longer followed 2.67
+ - Authority is not appraised in time but divinities
+   - Historical and Mythological math: the pagan religion is not older than 2,000 years 2.71
+ - Christianity is not new but recently revealed 2.72
+   - Likewise, pagans worship new, foreign deities frequently 2.73 (continuation of 2.67- do we want to organize chronlogically or in terms of argument?)
+ - The reason for the late revelation of Christianity is unknown (apophaticism) 2.74 (really a continuation of 2.72)
+   - Christ was sent when humanity was ready 2.75 
+
+
+ - Persecution is permitted by God? 2.76-78
+ - Christians need only worship one god 3.2
+ - If the gods exist, Christians worship them as well through God 3.3
+ - Comparison of pagan and Christian theology 7.35 [49]	- 37 [51]
+
+
 - Jesus's miracles as proof of divinity
 - Defense of Jesus's humanity
 
-- The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our selection)
+
+- The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)
  - The origin of calamities is unimaginable 1.7 (sort of fits)
  - You are arrogant and conceited if you know why God created 1.12
  - Why God appeared on Earth is unknown 1.61
@@ -49,6 +67,7 @@
  - Who are the true gods? 7.2
  - Summary of all opinions on God and gods 7.35 [49]
 
+
 - The defense against the charge of "calamities"
 
 - Anthropomorphism of the pagan gods (how many sections?)
@@ -61,5 +80,3 @@
 
 - Creation?
 - Soteriology?
-
-Arnobius loves to repeat himself
