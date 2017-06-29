@@ -135,16 +135,16 @@ Separate section for images and idols? Include them in temples section? It makes
 		- True gods neither desire nor demand sacrifice 7.1
 	- What is the purpose of sacrifice?
 		- Are the gods nourished by sacrifices? No, they're incorporeal 7.3
-	- Do sacrifices give the gods pleasure? No, they should be free of emotion 7.4
-	- Do sacrifices appease the gods? 7.5
-		- If so, how do we know when to sacrifice? 7.6
-		- We do not know the reasons for the gods anger against men: they created no laws 7.7
-		- Sinning is commonplace when pardon can be bought 7.8
-	- Sacrifice of animals is pointless: cannot shift the anger and bloodlust of a god 7.9
+		- Do sacrifices give the gods pleasure? No, they should be free of emotion 7.4
+		- Do sacrifices appease the gods? 7.5
+			- If so, how do we know when to sacrifice? 7.6
+			- We do not know the reasons for the gods anger against men: they created no laws 7.7
+			- Sinning is commonplace when pardon can be bought 7.8
+			- Sacrifice of animals is pointless: cannot shift the anger and bloodlust of a god 7.9
 		- Do sacrifices grant good fortune? 7.10 (order of argument could move up)
-		- If so, why are there innumerable hapless people? 7.11
-		- Favors are not for sale 7.12
-		- the gods are not attracted by gifts, and cannot be bought 7.12
+			- If so, why are there innumerable hapless people? 7.11
+			- Favors are not for sale 7.12
+			- The gods are not attracted by gifts, and cannot be bought 7.12
 	- Why not sacrifice other animals or even plants? 7.16
 		- These fit the criterion of nourishment 7.16
 	- Analogy: if humans were gods 7.17
