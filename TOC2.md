@@ -1,8 +1,6 @@
-# Arnobius
+#  Contents
 
-## Contents
-
-- **The soul is *not* immortal (2.14-51)**
+## **The soul is *not* immortal (2.14-51)**
 	- The danger of hell: what is immortal experiences no pain	2.14
 	- Sarcasm: no, we humans are perfect like immortal things!	2.15
 	- The immortal cannot be joined to the mortal, and we are, let's face it, animals	2.16
@@ -27,7 +25,7 @@
 		- An agnostic position re: souls is only reasonable.	2.51
 
 
-- **Defense of the novelty of Christianity (2.66-2.75)**
+## **Defense of the novelty of Christianity (2.66-2.75)**
 	- Ancient accounts of religion have more fictions than recent ones 1.57
 	- Old does not mean better 2.66
 		- Men seek that which is more valuable and pleasing, not what is traditional 2.66
@@ -46,13 +44,13 @@
 - Comparison of pagan and Christian theology 7.35 [49]- 37 [51]
 
 
-- **Jesus's miracles as proof of divinity (may not need to be separate section, as some of this is included in the defense of Jesus's humanity)**
+## **Jesus's miracles as proof of divinity (may not need to be separate section, as some of this is included in the defense of Jesus's humanity)**
 	- Christ’s powers and miracles 2.11
 	- Christ’s Miracles 1.45-47
 	- Miracles and Christianity have historical evidence 1.54-56
 
 
-- **Defense of Jesus's humanity (if combined with miracles, could be defense of the dual natures of Christ (being both fully human and fully divine))**
+## **Defense of Jesus's humanity (if combined with miracles, could be defense of the dual natures of Christ (being both fully human and fully divine))**
 	- Christians worship a human being: does this make pagan gods jealous? 1.36
 		- Hypocrisy: Pagans deified many humans 1.37
 	- Christ's teachings make him worthy of worship 1.38
@@ -66,7 +64,7 @@
 		- Only Christ’s human body was crucified 1.62
 		- The crucifixion was voluntary: Christ could have avoided a human death 1.63
 
-- **The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)**
+## **The limits of human knowledge and investigation: apophaticism (these are not necessarily passages from our loci selecti- needs another revision)**
 	- The origin of calamities is unimaginable 1.7 (sort of fits)
 	- You are arrogant and conceited if you know why God created 1.12
 	- Why God appeared on Earth is unknown 1.61
@@ -85,7 +83,7 @@
 	- Summary of all opinions on God and gods 7.35 [49]
 
 
-- **The defense against the charge of "calamities"**
+## **The defense against the charge of "calamities"**
 	- Charge: the Christians are responsible for the calamities 1.1 (Legal argument structure)
 	- Refutation: no new calamities have occurred since Christianity's birth 1.2
 		- The current calamities are longstanding 1.3
@@ -105,7 +103,7 @@
 	- (Could include 7.10-11, which are about how the gods spare those who sacrifice and grant them good fortune)
 
 
-- Anthropomorphism of the pagan gods (how many sections?)
+## Anthropomorphism of the pagan gods (how many sections?)
 	- Appearance
 	- Behavior
 	- The absurdity of allegory (and euphemism)
@@ -113,7 +111,7 @@
 
 - 6.10-13 Do not know if they are true likenesses of gods
 
-- **The uselessness of temples**
+## **The uselessness of temples**
 	- Temples, images, and sacrifices are worthy of condemnation; real gods would scorn the ceremonial practices of the pagans 6.1
 	- The gods do not need temples, as they transcend human needs 6.3
 		- Sarcasm: aren't the pagan gods omnipresent? 6.4
@@ -131,7 +129,7 @@
 
 Separate section for images and idols? Include them in temples section? It makes sense to lump them together, as they are both human representations for the divine and the arguments are intertwined. Could also put in the anthropomorphism section.
 
-- **The irrationality of sacrifice**
+## **The irrationality of sacrifice**
 	- True worship is in the heart; sacrifice achieves nothing 4.30
 	- Real gods would scorn this practice 6.1 (repeat from temples section)
 		- True gods neither desire nor demand sacrifice 7.1
