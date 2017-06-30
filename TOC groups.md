@@ -112,9 +112,6 @@
 	- Souls do not come from God 2.46
 	- Seeking the true origin of souls 2.47-48
 
-## Stories of Mythology/Allegory
-	- The loves of Jupiter 4.22-23
-
 ## Allegory and euphemism
 	- Myths should be taken allegorically 5.32
 	- Criticism of the idea that myths should be taken allegorically 5.33-34

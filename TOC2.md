@@ -99,30 +99,85 @@
 - The gods inflict calamities on all, not just Christians 1.21-22
 	- True gods would not be so jealous and childish 1.23
 		- Pagan priests originated this complaint 1.24
-- The pagans originate any calamities by denying the existence of the gods 3.36
-- (Could include 7.10-11, which are about how the gods spare those who sacrifice and grant them good fortune)
+
+## **Anthropomorphism of the pagan gods**
+- Christians are covered for the multiplicity of deities: worship rolls downhill	3.2-3
+- The problems of anthropomorphism	3.6-??
+	- Problem 1: the immortal has no sex.
+		- No contradiction for God: "he" is just a name.	3.8
+		- Sex/gender is for procreation	3.8
+			- But gods procreating entails the existence of an infinite number of gods	3.9
+			- The notion of lusty gods is sacrilege	3.10
+	- Problem 2: the immortal has no body.	3.12
+		- How far do the gods share human bodies?	3.13
+		- Difference of appearance implies different levels of beauty (i.e. ugly gods)	3.14
+		- If gods have bodies, how do they meet bodily needs?	3.15
+		- "Representations" is not an excuse, it is *more* offensive	3.16
+			- Imagine animals' "representations" of human gods	3.16
+				- Response to an objection: A negative proof does not also require a positive argument	3.17
+		- But interaction requires sense-organs, doesn't it?	3.18
+		- God surpasses human understanding—and the limitations of human qualities.	3.19
+	- Problem 3: the gods have dominion over specific fields as experts	3.20
+		- What need have gods of these skills?	3.21
+		- Experience shows that these dominions often have poor outcomes.	3.23
+		- It is divine to give aid without payment or reward.	3.24
+	- Problem 4: these gods are immoral—evil, even!	3.25
+		- Mars as a god?	3.26
+		- Venus as a god?	3.27
+		- Such morality is incompatible with divinity.	3.28
+	- Problem 5: inconsistency and multiplicity of opinion.
+		- Differing opinions prove that these gods are not real.	3.29-3.30
+		- Consistent, fixed opinion is required to make worship possible.	3.42-44
+	- {Problem 6: Names	3.4 (displaced here)}
+		- {Knowledge of a god a necessary prerequisite to worship	3.5}
+		- Abstractions are not divine.	4.1-2
+		- Many gods take their names illogically.
+			- Luperca	4.3
+			- Pellonia	4.4
+			- Venus militaris	4.7
+			- Which came first, the domain or the god?	4.8
+	- Problem 7: multiple versions of gods	4.13-15
+		- The five Minervas	4.16-17
+	- Problem 8: gods are not born.	4.19-20
+		- Even Jupiter "Maximus"?	4.21
+			- Jupiter's sex-life in general	4.22
+				- And for a god to be attracted to humans?!	4.23
+	- Again, pagans blaspheme in this way, not Christians.	4.24
+		- Examples of pagan blasphemy.	4.24-26
+		- These notions are incompatible with divinity.	4.28
+			- Such blasphemy is merely poetic fiction.	4.32
+				- Then why no punishment?	4.32
+				- Instead, such poets are treated like princes among men, and only the gods receive no legal protections.	4.34
+		- Is it any surprise Christians refuse to participate in such a religious system with such immoral gods?	5.29
+			- Pagan beliefs truly merit the charge of atheism in their disrespect.	5.30-31
+	- A faulty pagan defense: allegory	5.32
+		- Hidden meanings doesn't change the impiety of the surface meaning.	5.33
+		- Allegory leads to free relativist interpretation.	5.34
+		- An example shows that allegory is employed arbitrarily.	5.37-38
+		- Do pagans use allegory to turn the decent into the dirty?	5.41, 5.45
 
 
-## Anthropomorphism of the pagan gods (how many sections?)
-	- Appearance
-	- Behavior
-	- The absurdity of allegory (and euphemism)
-	- ?
+	- The inability to understand god leads to anthropomorphism	7.34
+
+	- Summary of competing opinions.	7.35-37 (for closing passage?)
+
+
+
 
 - 6.10-13 Do not know if they are true likenesses of gods
 
 ## **The uselessness of temples**
-- Temples, images, and sacrifices are worthy of condemnation; real gods would scorn the ceremonial practices of the pagans 6.1
+- Real gods would scorn the ceremonial practices of the pagans 6.1
 - The gods do not need temples, as they transcend human needs 6.3
 	- Sarcasm: aren't the pagan gods omnipresent? 6.4
 	- If not, the gods might not hear you, even in a temple 6.5
 - Images of the gods are pointless invocations, just like temples, and are an affront to the deities 6.8
 	- Pagans make supplications to senseless images 6.9
-- These images have no basis in reality or in knowledge of the gods 6.10
-- Some of these images are ridiculous: why do pagans worship statues? 6.11
+	- These images have no basis in reality or in knowledge of the gods 6.10
+	- Some of these images are ridiculous: why do pagans worship statues? 6.11
 	- These representations are boorish and meaningless, fabricated by men 6.12
-- Some images were modelled on human beings: this makes a farce of divinity 6.13
-- Images impress the rabble 6.24-26
+	- Some images were modelled on human beings: this makes a farce of divinity 6.13
+	- Images impress the rabble 6.24-26
 - Sarcasm: Why do servants, not the gods, guard the temples? 6.20
 	- Answer: The temples are often robbed or sacked: the gods do not guard the temples 6.21
 	- The pagan gods do not care for temples and idols 6.22
@@ -130,7 +185,8 @@
 Separate section for images and idols? Include them in temples section? It makes sense to lump them together, as they are both human representations for the divine and the arguments are intertwined. Could also put in the anthropomorphism section.
 
 ## **The irrationality of sacrifice**
-- True worship is in the heart; sacrifice achieves nothing 4.30
+- Is it worse to refuse to sacrifice to gods uninterested in victims, or to blaspheme them?	4.30-31
+
 - Real gods would scorn this practice 6.1 (repeat from temples section)
 	- True gods neither desire nor demand sacrifice 7.1
 - What is the purpose of sacrifice?
