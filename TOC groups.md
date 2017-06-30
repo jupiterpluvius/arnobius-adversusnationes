@@ -27,7 +27,7 @@
 	- Christ’s Miracles 1.45-47
 	- Miracles and Christianity have historical evidence 1.54-56
 	- Truth of the Christian religion and falsity of the pagan 1.57
-	- Uneducated origin of Christian writings 1.58-59
+**Uneducated origin of Christian writings 1.58-59**
 	- Reasons for the incarnation 1.60-61
 	- Only Christ’s human body was crucified 1.62
 	- The crucifixion was voluntary 1.63
