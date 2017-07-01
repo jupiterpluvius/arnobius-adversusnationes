@@ -27,7 +27,7 @@
 	- Christ’s Miracles 1.45-47
 	- Miracles and Christianity have historical evidence 1.54-56
 	- Truth of the Christian religion and falsity of the pagan 1.57
-	- Uneducated origin of Christian writings 1.58-59
+**Uneducated origin of Christian writings 1.58-59**
 	- Reasons for the incarnation 1.60-61
 	- Only Christ’s human body was crucified 1.62
 	- The crucifixion was voluntary 1.63
@@ -111,9 +111,6 @@
 	- How did souls become evil and degraded? 2.43-45
 	- Souls do not come from God 2.46
 	- Seeking the true origin of souls 2.47-48
-
-## Stories of Mythology/Allegory
-	- The loves of Jupiter 4.22-23
 
 ## Allegory and euphemism
 	- Myths should be taken allegorically 5.32
