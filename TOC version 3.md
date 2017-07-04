@@ -34,6 +34,6 @@ Table of Contents
 
 Superlevels: Simmons pgs. 9-10 say that books 1-2 are revoking Arnobius's criticism of the faith, and 4-7 Arnobius goes on the attack using literary retortion
 
-  I like the transition from defense of Jesus's humanity to the argument of anthropomorphic gods, as it deals with the same topic in a different light.
+I like the transition from defense of Jesus's humanity to the argument of anthropomorphic gods, as it deals with the same topic in a different light.
 
-  I included all of the conservanda passages. Everything else remains as is in TOC2 for the other organization.
+I included all of the conservanda passages. Everything else remains as is in TOC2 for the other organization.
