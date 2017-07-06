@@ -1,22 +1,23 @@
 AAN: Selections
 =============
 
-INTRODUCTION
-1. Arnobius's recent conversion (1.39)
+PART ONE: INTRODUCTION
+
+1. *Arnobius's recent conversion* (1.39)
 39.1. venerābar, ō caecitās, nūper simulācra modo ex fornācibus prōmpta, in incūdibus deōs et ex malleīs fabricātōs, elephantōrum ossa, pictūrās, veternōsīs in arboribus taeniās; sīquandō cōnspexeram lūbricātum lapidem et ex olīvī unguine sordidātum, tamquam inesset vīs praesēns, adūlābar, affābar et beneficia poscēbam nihil sentiente dē truncō, et eōs ipsōs dīvōs, quōs esse mihi persuāseram, afficiēbam contumēliīs gravibus, cum eōs esse crēdēbam ligna lapidēs atque ossa aut in huiusmodī rērum habitāre māteriā. 2. nunc doctōre tantō in viās vēritātis inductus omnia ista quae sint sciō, digna dē dignīs sentiō, contumēliam nōminī nūllam faciō dīvīnō, et quid cuique dēbeātur vel persōnae vel capitī, incōnfūsīs gradibus atque auctōritātibus tribuō. 3. ita ergō Chrīstus nōn habeātur ā nōbīs deus nec quī omnium aliōquīn vel maximus potest excōgitārī dīvīnitātis afficiātur cultū, ā quō iamdūdum tanta et accēpimus dōna vīventēs et expectāmus, diēs cum vēnerit, ampliōra?
 
-2. The judgement of Jerome
+2. *The evidence of Jerome*
 Arnobius rhētor in Āfricā clārus habētur, quī cum Siccae ad dēclāmandum iuvenēs ērudīret et adhūc ethnicus ad crēdulitātem somniīs compellerētur, neque ab epīscopō impetrāret fidem quam semper impugnāverat, ēlūcubrāvit adversum prīstinam religiōnem lūculentissimōs librōs et tandem velutī quibusdam obsidibus pietātis foedus impetrāvit. (*Chronica* s.a. 326-7)
-
+: : :
 Arnobius sub Dioclētiānō prīncipe Siccae apud Āfricam flōrentissimē rhētoricam docuit, scrīpsitque adversum gentēs quae vulgō exstant volūmina....Firmiānus quī et Lactantius, Arnobiī discipulus...hic extrēmā senectūte magister Caesaris Crīspī, fīliī Cōnstantīnī, in Galliā fuit... (*De viris illustribus* 79, 80)
-
+: : :
 Arnobius inaequālis et nimius est et absque operis suī partītiōne cōnfūsus. (*Epistulae* 58.10)
-
+: : :
 Orīginem propter ērudītiōnem sīc interdum legendum arbitror‚ quōmodo Tertulliānum et Novātum, Arnobium et Apollinārium et nōnnūllōs ecclēsiasticōs scrīptōrēs, Graecōs pariter et Latīnōs, ut bona eōrum ēligāmus vītēmusque contrāria iuxtā apostolum Paulum dīcentem: omnia probāte, quae bona sunt, retinēte. (*Epistulae* 62.2)
-
+: : :
 septem librōs adversus gentēs Arnobius ēdidit totidemque discipulus eius Lactantius... (*Epistulae* 70.5)
 
-3. The Great Persecution in the background (2.76–78)
+3. *Diocletian's persecution in the background* (2.76–78)
 76.1. “cūr ergō,” inquit, “sī omnipotentī servītis deō et eum habēre cōnfīditis salūtis atque incolumitātis vestrae cūram, cūr persecūtiōnēs patitur perpetī vōs tantās atque omnia genera poenārum et suppliciōrum subīre?” 2. — perquīrāmus et nōs contrā, cūr et vōs, cum tantōs et tam innumerōs cōlātis deōs cumque illīs aedēs cōnstituātis sacrās, simulācra effingātis ex aurō, animantium mactētis gregēs, acerrās omnēs thūris plēnīs coniciātis altāribus, cūr nōn immūnēs agitis tot discrīminibus et procellīs, quibus cotīdiē vōs agunt exitiābilēs multiplicēsque fortūnae? 3. cūr, inquam, diī vestrī cessant ā vōbīs āvertere tot morbōrum et valētūdinum genera, naufragia ruīnās incendia pestilentiās sterilitātem, āmissiōnem pignorum et prōscrīptiōnem bonōrum, discordiās bella simultātēs, captīvitātēs urbium et sublātīs ingenuitātibus servitūtēs? 4. sed et nōbīs in huiusmodī cāsibus minimē auxiliātur deus. prōmpta et manifēsta causa est. nihil est enim nōbīs prōmissum ad hanc vītam nec in carunculae huius folliculō cōnstitūtīs opis aliquid spōnsum est auxiliīque dēcrētum; quīnimmō ēdoctī sumus minās omnēs quaecumque sunt parvī dūcere atque aestimāre fortūnae, ac sī quandō ingruerit vīs quaepiam gravior, quam fīnem necesse sit cōnsequī, ascrībere īnfortūniō voluptātem nec timēre nec fugere quō facilius exuī corporālibus possīmus ex vinculīs et tenebrōsam ēvādere caecitātem.
 77.1. itaque ista quam dīcitis persecūtiōnis asperitās līberātiō nostra est, nōn persecūtiō, nec poenam vexātiō īnferet sed ad lūcem lībertātis ēdūcet. 2. ut sī aliquis brūtus ac stolidus in carcerem hominem datum in ēgressum quaestiōnum numquam afficere sē praegravibus atque immānibus exīstimet poenīs nisi in ipsum saeviat carcerem, māteriam eius comminuat atque ūrat tēctum, parietem, iānuās partēsque aliās operis renūdet dēiciat afflīgat, nesciēns hōc factō eī cui videātur officere darī ab sē lūcem et scelerātam ēripī caecitātem: itidem et vōs flammīs exiliīs cruciātibus bēluīs, quibus corpora lancinātis et dīvexātis nostra, nōn vītam ēripitis nōbīs, sed pelliculīs relevātīs et cutibus nōs nesciī, et quantō īnstātis et pergitis in effigiēs hās nostrās speciēsque saevīre, tantō artis et gravibus relevātis nōs vinculīs et ad lūmen efficitis circumcīsīs nexibus ēvolāre.
 78.1. quārē, hominēs, abstinēte quaestiōnibus vacuīs impedīre spēs vestrās, nec sī aliter quam vōs putātis aliquid sē habet, vestrīs potius opīniōnibus crēdere quam reī dēbētis augustae. 2. urgent tempora perīculīs plēna et exitiābilēs imminent poenae: cōnfugiāmus ad salūtārem deum nec ratiōnem mūneris exigāmus oblātī. cum dē animārum agātur salūte ac dē respectū nostrī, aliquid et sine ratiōne faciendum est, ut Epictētum dīxisse approbat Arriānus. 3. dubitāmus, ambigimus nec esse quod dīcitur plēnum fideī suspicāmur: committāmus nōs deō, nec plūs apud nōs valeat incrēdulitās nostra quam illīus nōminis et potentiae magnitūdō, nē dum ipsī nōbīs argūmenta conquīrimus quibus esse videātur falsum id quod esse nōlimus atque annītimur vērum, obrēpat diēs extrēmus et inimīcae mortis reperiāmur in faucibus.
