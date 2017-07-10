@@ -58,3 +58,7 @@
 3.9 "diseases and contagions burn inside the race of humans." - run through the writings of the annals, written in a myriad of languages: you will learn that entire races were repeatedly laid waste and were left devoid of inhabitants.
 3.10 "each kind of the crops is destroyed and eaten away by locusts and mice." - go through your histories and you will be taught how often a prior age was afflicted by those pest and came to the misery associated with poverty.
 3.11 "states waver to the point of danger, caused to tremble by most destructive movements of the earth" - what, did prior times not see cities stolen by enormous rifts, with all of their people, or did they have fortunes secure from this sort of disaster?
+5.3 When Helen was snatched by the gods, generals, and other instigators, and was an ominous and calamitous person for the coming times, was this attributed to the crime of our religion?
+5.4 When that massive Xerxes allowed the sea onto the lands and crossed the seas, was this caused by wrath against our name?
+5.5 When, from the territory of Macedonia, one adolescent appeared and subjugated the kingdoms and peoples of the East through captivity and servitude, did we do this and did we incite the reasons for it?
+5.6 
