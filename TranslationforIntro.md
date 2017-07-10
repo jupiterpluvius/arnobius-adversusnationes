@@ -61,4 +61,7 @@
 5.3 When Helen was snatched by the gods, generals, and other instigators, and was an ominous and calamitous person for the coming times, was this attributed to the crime of our religion?
 5.4 When that massive Xerxes allowed the sea onto the lands and crossed the seas, was this caused by wrath against our name?
 5.5 When, from the territory of Macedonia, one adolescent appeared and subjugated the kingdoms and peoples of the East through captivity and servitude, did we do this and did we incite the reasons for it?
-5.6 
+5.6 When the Romans recently, as if some flowing river, submerged and buried entire nations, did we, evidently, throw the divine beings into this madness?
+5.7 But if there is no man who dares to ascribe the things which were done long ago to our times, how are we able to be the originators of the present miseries, when nothing new occurs, but all these things are old and heard of by ancient peoples?
+6.1 Although, concerning those wars which you say were stirred up because of hatred of our religion, it is not difficult to confirm that after Christ was heard on this earth, not only did these wars not increase in number, but also they diminished because of the lessening of the greater part of frenzying passion.
+6.2 For since a great host of men have learned from his teachings and laws, that evil should not be repaid with evil, that it is more commendable to endure injustice than to inflict it, better to pour out oneself than to pollute our hands and conscience with another's blood, and the thankless world receives this kindness from Christ, through whom the madness of savagery was softened and began to keep hostile hands from the blood of kindred life.
