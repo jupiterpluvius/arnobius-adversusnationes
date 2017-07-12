@@ -66,7 +66,7 @@
 6.1 Although, concerning those wars which you say were stirred up because of hatred of our religion, it is not difficult to confirm that after Christ was heard on this earth, not only did these wars not increase in number, but also they diminished because of the lessening of the greater part of frenzying passion.
 6.2 For since a great host of men have learned from his teachings and laws, that evil should not be repaid with evil, that it is more commendable to endure injustice than to inflict it, better to pour out oneself than to pollute our hands and conscience with another's blood, and the thankless world receives this kindness from Christ, through whom the madness of savagery was softened and began to keep hostile hands from the blood of kindred life.
 
-**The true source of these evils**
+**6- The true source of these evils**
 7.1 "But if," they say, "no human affairs (dat of reference?) are inconvenienced by you, from where do these bad things come, by which our miserable existence has long been beset and oppressed?"
 :::
 8.2 For what if the base matter, which is dispersed through the four elements of things, contains the causes of all these miseries, wrapped in its plans and rules?
@@ -89,7 +89,7 @@
 12.2 Therefore if you all wish your complaints to have a place, men, before this is so you should teach us from where or who you are, if the world was brought forth and forged for you, or if you came into it as tenants from another place? (what type of ut clause?)
 *12.3* So, since you are not able to say it is yours, and you are not able to explain for whose sake you live under this curvature of the heavens, cease to think that anything concerns you, since these things which occur do not occur (in a distributed manner? equally?) but give back and are rendered for the sum of the whole world.
 
-**@The occurrence of the opposite@ must be explained**
+**7- @The occurrence of the opposite@ must be explained**
 13.1 They say "the gods carry out all bad things because of the Christians, and the death of crops is carried out by the deities." - I ask, when you say these things, do you not see that you flagrantly misrepresent us in clear and obvious lies?
 13.2 There have been almost 300 years, to some degree more or less (is aliquid an adv here?), since Christians began to be and to be known on earth: were wars constantly occurring during these years, or was barrenness continual, was no peace found in these lands, no time without ceasing where there was cheapness and abundance of things?
 13.3 For this first must be proven by him who accuses us, that these calamities have been continuous and unyielding, that never have mortals caught their breath entirely, without any days of rest, as it is said, and they endured the appearances of multiple crises.
@@ -98,3 +98,14 @@
 15.1 But there were some times of necessities - and again these were relieved by abundances; against our consent certain wars were conducted - set right afterwards by victories and successes.
 15.2 Why should we say that the gods are just now mindful of our injustices, only to be unmindful again?
 *15.3* If, at a time when there is a famine, they are said to be angered, it follows that in a time of abundance they are not angered or intractable; and so the matter is brought down to this, that with playful changes they both put aside and take up their anger, and always restore themselves to the wholesome opinion, now with pardon and even recollection of offenses.
+
+**8- Anger is not compatible with divinity**
+17.1 And nevertheless, oh great worshippers and mouthpieces of the gods, why do you declare that those most revered gods feel resentment toward the Christian peoples? Therefore do you not draw your attention to it, do you not see it, how disgraceful, how indecent the emotional follies you attribute to the gods really are?
+*17.2* For what else is rage than anger, than fury, than to be carried by a desire of vengeance, and made savage in the clutches of grief of one another, to rave in the numbness of ones chest?
+17.3 The great gods know, endure, and feel this, what feral beasts, what wild animals, what deadly water-snakes contain in their poisoned teeth.
+*17.4* It is proclaimed by you that you know what shallowness there is in men, what is culpable in earthly life, prevailing in that nature and residing in the strength of constant courage -
+17.5 And what therefore inevitably follows, except that flaming sparks burst forth from their eyes, their gasping chest wavers, froth is spills from their mouth and their lips become pale from their burning words?
+18.1 But if that is true, and explored and known, that the gods seethe with wrath and emotion of this sort, that they are disturbed by such a feeling, they are not immortal and everlasting and should not be placed, in any estimation, worthy of the status of a divinity.
+18.2 For where there is any as it seems to wise men, emotion, there passion must be; where passion is allowed, there emotional commotion is sure to follow; where there is this commotion, there grief and weakness; where there is grief and weakness, there is a place for diminishment and corruption - which two, if they harass, there ruin is close by, a death ending all things and stealing life from all sentient beings.
+19.1 Why? Because you present them in this way, that they are not only fickle and hot blooded, but also - that which is agreed to be far removed from the gods - both unfair and unjust, and have absolutely no mind for fairness or restraint?
+*19.2* For what is so unjust as to resent some and wound others, to lament about men and destroy harmless crops, to disdain the name of the Christians and to undermine its worshippers with every expense?
