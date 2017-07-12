@@ -116,3 +116,11 @@
 21.3 And for the last and final punishment, let them order that crops retain their flavor in your mouth, but in ours that honey be made bitter, that the rivers of olive oil be spoiled, and that the faithless wine suddenly be turned @bitter in the lips of drinker@
 *22.1* Since these things themselves testify that they do not occur at all, and it is agreed that life giving gifts do not overflow less for us whatsoever and do not overflow more for you, the desire, which is great, to contend that the gods are hostile and unfriendly to the Christians, whom in most sad and in happy circumstances, you see no difference from you in any reckoning?
 22.2 If you allow the truth (verum acting as a noun for once?) to be spoken without any toadyism, these are words, just words; indeed things believed through pretenses, not proven by the finding of some inquiry.
+
+**10- The truth of the matter**
+23.1 But yet the true gods, and those who are worthy to have, who are worthy to bear the weight of this name, neither rage nor scorn nor construct insidious plots because it does harm to another.
+23.2 And indeed it is actually irreverent and transcending all sacrileges to believe that the wise and most blessed nature thinks it something great, if anyone submits himself to it in lowly flattery, and if this were not done, to believe itself insignificant, and to have fallen from the tip of the highest summit.
+*23.3* It is childish, insignificant, and pitiful, scarcely fitting for those whom for a long time the testing of teachers named them daemones and heroes, not to have known heavenly matters and, to live in this muddier composition of things with the fate of this contract.
+24.1 These are you opinions, these are your words, impiously thought up and more blasphemously believed.
+24.2 Indeed, to speak out more truthfully, the soothsayers, the diviners, the prophets, the seers, and vain fanatics concocted these stories, who, so that their arts might not die and so that they might not drive off the meager offerings for their infrequent consultations, whenever they find that you wish the matter to come under fire,
+24.3 they shout "The gods are disregarded, and it is highly rare now for you to be in temples, the ancient ceremonies lie in ruins, laughed at, and "
