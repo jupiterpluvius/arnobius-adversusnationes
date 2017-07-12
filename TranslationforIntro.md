@@ -125,3 +125,6 @@
 24.2 Indeed, to speak out more truthfully, the soothsayers, the diviners, the prophets, the seers, and vain fanatics concocted these stories, who, so that their arts might not die and so that they might not drive off the meager offerings for their infrequent consultations, whenever they find that you wish the matter to come under fire,
 *24.3* they shout "The gods are disregarded, and it is highly rare now for you to be in temples, the ancient ceremonies lie in ruins, laughed at, and the most ancient ceremonies of religious rites certainly have declined from the superstitions of new religions, and rightly the race of humans is pressed by so many straits of miseries and tortured by the toils of their labors."
 24.4 And men, the dull kind, and unable to see that situation which is under examination because of their engendered blindness, frenzied, dare to declare what you insane people are ashamed to believe.
+
+**CHRISTIANITY’S NOVELTY IS NO DISPARAGEMENT (2.66–67, 71–75)**
+66.2 For that which you are accustomed to charge us with, that our religion is new and 
