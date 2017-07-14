@@ -145,4 +145,24 @@
 *70.5* And since it is this way, when you speak about the novelty of our religion, do our ideas not come into mind (what noun is implied by vestrae?) and do you not care to consider, when your gods sprung up, what origins they had, what reasons for existence they had, or what they came from and what roots they burst from? Moreover it is shameful, and moreover immodest, to do that which you see yourself doing, to reprimand another in that way, to put forth these things in place of slanders and accusations which are able to be turned back against you in turn?
 
 **14- The difference in age is trivial considering the scale of infinite time**
-71.1 
+71.1 But that which we do is new, moreover that which you do is ancient and excessively old - and why does that either aid your cause or damage ours? It is a new thing which we carry on, and at some point it will become an old thing: what you all do is old, but it began in a time in which it was new and unexpected. Moreover the authority of a religion should not be determined by its length of existence but by the power within it, and it does not make sense to examine on what day you began to worship but rather what it was you began to worship.
+71.2 He says "300 years ago your religion had not yet come to be."
+-and your gods are not older than two thousand years.
+"through what rationale or computations is that able to be determined?"
+-Not with difficult computations or obscure ones, but those which one who wishes is able to see and to feel, just as it is said, in his hands.
+71.3 Who gave birth to Jupiter and his brothers? Saturn, married to Ops, as you say, born from Caelus and Hecate. Who bore Picus, father of Faunus and grandfather of Latinus? Saturn, as you likewise relate in your scriptures and authors.
+71.4 Therefore, if these things are so, it follows that Picus and Jupiter are joined to each other by the right of brotherhood, namely they came from one blood and one seed.
+"It is as you said."
+-How many steps of descent are there from Jupiter and Picus up to Latinus?
+"three, as the series shows."
+-Would you say that Faunus, Latinus, and Picus lived for 120 years? For beyond that (should vita have a macron or not? Nom if in clause or abl with ultra) it is denied that the life of a man is able to be prolonged.
+"This thought is proper and sensible."
+-therefore there are a full 360 years after them?
+"The matter is so, as your computation indicated."
+-whose father-in-law was Latinus? "Aeneas"
+-of whom was Aeneas the father? "Ascanius, founder of the town of Alba"
+-how many years was the kingdom at Alba?
+"nearly 420 years."
+-The city of Rome is indicated to be of what age, according to the Annals?
+"It shows 1,050 years, or not much less than that."
+71.5 Therefore from Jupiter, who is the brother of Picus, who is the father of lesser and other gods, there have been almost 2,000 years to now - or fully that, if we give a generous guess for the length of time. And since it is not able (how to construe quod cum) to be refuted, not only is your religion, which you observe, shown to be recent and newborn, but it is shown that the gods themselves are infants and children at this point, to whom you furnish bulls and other sacrifices, with a danger of corruption, whom it is right as yet to be suckled with breasts and drops of milk.
