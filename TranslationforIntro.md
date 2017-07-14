@@ -176,3 +176,6 @@
 *73.2* Are the sacred rites of the mother Ceres, because they are unknown to you and adopted a little before now, maintained (is dicantur from dicere or dicare) that they are Greek, testifying its very newness in its name? Is it not contained in the writings of teachers that the Pompilian *indigitamenta* did not know the name of Apollo, from which it is apparent and obvious that this deity was unknown to you, however after at some point he began to exist and be known by you.
 73.3 Therefore if anyone should ask you why you took up worship at such a late point of these divinities whom we have just mentioned, it is certain that you would respond: either because we did not know that they belonged in the number of the gods until recently, or because we have now been taught by oracles, or because we have been saved in the harshest circumstances through their favors and aid.
 73.4 But if you will think this to be valid, also consider that there was a response using a similar rationale from our side. Our religion is now born: for now, having been sent, he came, who showed it to us, who brought us into the truth, who showed us what God is (why is it quid?), who called us to his worship away from imaginary things.
+
+**16- The reason for the delayed arrival of Christianity is unknown, but is in accordance with God’s plan**
+74.1 
