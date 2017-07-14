@@ -183,4 +183,7 @@
 *74.3* You will say that there was some reason.
 Therefore the reason also is here, why not recently but today the savior of our people came. "What is the reason?" - we are not taking a defensive stance on the fact that we don't know. For it is not clear to anyone to see the mind of God, or in what manner he arranged our affairs, (need a comma or period after suas? is it a new sentence?), man, a blind animal, does not know himself, and is not able to explain in any rational way: what should occur, when or in what way, he himself, the father of all things, the moderator, and lord alone knows.
 74.4 And it does not immediately follow, if I will have been unable to explain the reasons to you, why something is done in this way or that way, that those things which were finished should become unfinished and one should lose faith which was demonstrated to be doubtless through such great examples of virtue and power.
-75.1 
+75.1 Let you oppose this and say: "Why was the savior sent at such a late time?" - In the infinite, everlasting ages nothing altogether should be called late. For when there is no end and beginning, nothing is premature, nothing late. For time is learned from endpoints and boundaries, which the sequence and continuity of the ages is not able to have.
+75.2 For what if the circumstances themselves, in which it was agreed that aid should be received, examined that opportune time as correct? What if the ancients were of one condition, those following them of another? What if aid ought to be offered to the ancients in one way, granted to the later generations in another?
+75.3
+75.4
