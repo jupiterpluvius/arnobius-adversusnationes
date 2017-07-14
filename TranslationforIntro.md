@@ -142,4 +142,7 @@
 70.2 For if it is true that Jupiter, along with his brothers, was born from Saturn and his wife, before the marriage of Ops, Jupiter @was never born@ (should partus be the noun or participle form? The macron shows noun but I think participle might be correct), either the supreme Jupiter or the Stygian, nor the master of the ocean, nor Juno, indeed no one else, after removing from consideration the two creators, lived in the seats of heaven, but were conceived and born from their intercourse and drew the breath of life.
 70.3 Therefore, the god Jupiter began to exist from a certain time, to merit worship and sacrifices from a certain time, and to be placed before his brothers in the seats of power.
 :::
-70.5 And , when you speak about the novelty of our religion, do your (need to add a macron over curatis in the text?)
+*70.5* And since it is this way, when you speak about the novelty of our religion, do our ideas not come into mind (what noun is implied by vestrae?) and do you not care to consider, when your gods sprung up, what origins they had, what reasons for existence they had, or what they came from and what roots they burst from? Moreover it is shameful, and moreover immodest, to do that which you see yourself doing, to reprimand another in that way, to put forth these things in place of slanders and accusations which are able to be turned back against you in turn?
+
+**14- The difference in age is trivial considering the scale of infinite time**
+71.1 
