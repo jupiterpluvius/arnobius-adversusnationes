@@ -51,3 +51,28 @@ senectute- ablative of description
 2.76
 Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this, saying that God did not promise an easy life to those who follow him, but rather eternal deliverance.
 1
+{si...servitis...confiditis} conditional protasis
+{eum habere} indirect statement
+salutis, incolumitatis- objective genitive
+2
+{cum...colatis} Cum concessive
+{cumque...constituatis...effingatis...mactetis...coniciatis} Cum concessive
+illis- dative of reference
+altaribus- ablative of location
+discriminibus, procellis- ablative of separation
+{quibus...agunt}- relative clause
+@@are both perquiramus and cur...agitis main clause?
+3
+sublatis ingenuitatibus- ablative absolute
+4
+carunculae- genitive of material
+constitutis- dative of reference
+opis, auxilii- partitive genitives
+{quaecumque sunt} relative clause
+@@parvi- partitive genitive? I know we discussed this but I cannot remember
+fortunae- objective genitive? Need help distinguishing these
+{siquando ingruerit} temporal clause
+{quam...sit}- relative clause of characteristic
+{quo...possimus}- relative clause of purpose
+
+2.77
