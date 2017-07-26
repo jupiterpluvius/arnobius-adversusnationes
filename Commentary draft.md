@@ -4,24 +4,21 @@ COMMENTARY
 1.39
 Arnobius used to blindly follow the pagan traditions, but now clearly sees the truths of the world because of his devotion to Christ.
 1
-@@caecitas- vocative (not sure if I need to include this)
+{ex malleis}- peculiar usage of ex, meaning by or using hammers
 {siquando conspexeram} temporal clause
 {tamquam inesset} clause of comparison
-{quos...persuaseram} relative clause
-@@contumeliis? I don't think it requires inclusion because I think it is means, or that it is a natural usage with afficiebam
-{cum...credebam} cum temporal clause
-{eos esse...habitare} indirect statement
-@@rerum- not sure what type this is
+{nihil}-cognate accusative
+{quos esse}- indirect statement, object of persuaseram
+{cum...credebam} temporal clause
+{eos esse...ossa...habitare} indirect statement
+{huiusmodi}- genitive of quality/characteristic
 2
-{quae sint} relative clause of characteristic
-@nomini@- I believe it is IO but ask
-@@{quid cuique debeatur} relative clause of characteristic?
-@@gradibus, auctoritatibus- ablative of respect
+{quae sint}- indirect question
+{digna}- cognate accusative
+{quid... debeatur}- indirect question
+{gradibus, auctoritatibus}- ablative of respect
 3
 come back to this part- the printed text is different from the original one used, so I need to look at this again. This will probably need a note for clarification
-
-Vocab list??
-Should I put the list with clauses then words, or just the order in which they appear in the passage?
 
 [2] The evidence of Jerome
 According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity: the books were widely read. He is a rhetorician of some renown, but Jerome does not enjoy his style.
