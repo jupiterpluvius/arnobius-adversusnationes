@@ -78,3 +78,20 @@ fortunae- objective genitive? Need help distinguishing these
 2.77
 Persecution is not a burden, but rather frees Christians from focus on worldly concerns.
 1
+{quam dicitis}- relative clause
+2
+{ut si...existimet}-present contrary to fact
+{hominem...afficere}-indirect statement
+quaestionum?
+{nisi...saeviat...comminuat...urat...renudet deiciat affligat}-present contrary to fact
+hoc facto- ablative absolute
+{cui videatur}- relative clause of purpose?
+{dari...lucem}- indirect statement
+{sceleratam eripi caecitam}-indirect statement
+{quibus...lancinatis et divexatis}- relative clause
+pelliculis, cutibus- ablative of separation
+@@quanto,tanto clauses are what type?
+vinculis- ablative of separation
+circumcisis nexibus- ablative absolute
+
+2.78
