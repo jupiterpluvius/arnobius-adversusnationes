@@ -95,3 +95,12 @@ vinculis- ablative of separation
 circumcisis nexibus- ablative absolute
 
 2.78
+Although Christians suffer terrible persecution, comfort can be found in the truth of Christ.
+1
+{si...habet}-conditional
+@@{quam vos putatis}-relative clause
+2
+periculis- does it need a special usage tag?
+confugiamus,exigamus- hortatory subjunctive
+{cum...agatur}-cum circumstantial clause
+{ut...approbat}-comparison clause??
