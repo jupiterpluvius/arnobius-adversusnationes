@@ -24,3 +24,30 @@ Vocab list??
 Should I put the list with clauses then words, or just the order in which they appear in the passage?
 
 [2] The evidence of Jerome
+According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity: the books were widely read. He is a rhetorician of some renown, but Jerome does not enjoy his style.
+1
+{qui...elucubravit...impetravit} relative clause
+{cum...erudiret...compelleretur...impetraret} @@(are these verbs in parallel or are they the verbs within the relative clause?) cum circumstantial
+Siccae- locative
+{quam...impugnaverat} relative clause
+pietatis- objective genitive
+:::
+2
+Siccae-locative
+{quae...exstant} relative clause
+senectute- ablative of description
+@@should the qui be after Firmianus? context would help here
+:::
+3
+:::
+4
+@@Do I need a comment about legendum? Gerundives in general?
+{ut...eligamus vitemusque} purpose clause
+{quae...sunt} relative clause
+:::
+5
+
+[3] Diocletian's Persecution in the background
+2.76
+Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this, saying that God did not promise an easy life to those who follow him, but rather eternal deliverance.
+1
