@@ -18,7 +18,11 @@ Arnobius used to blindly follow the pagan traditions, but now clearly sees the t
 {quid... debeatur}- indirect question
 {gradibus, auctoritatibus}- ablative of respect
 3
-come back to this part- the printed text is different from the original one used, so I need to look at this again. This will probably need a note for clarification
+{habeatur, afficiatur}- potential subjunctive
+{qui...potest excogitari}- relative clause, subject of afficiatur
+{omnium}- partitive genitive
+{ampliora}- sc. dona
+
 
 [2] The evidence of Jerome
 According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity: the books were widely read. He is a rhetorician of some renown, but Jerome does not enjoy his style.
@@ -101,3 +105,10 @@ periculis- does it need a special usage tag?
 confugiamus,exigamus- hortatory subjunctive
 {cum...agatur}-cum circumstantial clause
 {ut...approbat}-comparison clause??
+
+
+
+manner- turn into an adverb
+means- turn into the subject of the sentence
+description- like genitive of characteristic- of great character
+add macrons
