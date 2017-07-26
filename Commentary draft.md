@@ -76,3 +76,5 @@ fortunae- objective genitive? Need help distinguishing these
 {quo...possimus}- relative clause of purpose
 
 2.77
+Persecution is not a burden, but rather frees Christians from focus on worldly concerns.
+1
