@@ -53,26 +53,27 @@ veternosus, veternosa, veternosum	lethargic
 [2] The evidence of Jerome
 According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity. The books were widely read, as Arnobius is a rhetorician of some renown, but Jerome does not enjoy his style.
 1
+@@{declamandum}- gerundive in an expression of purpose-need to include gerundives?
 {qui...elucubravit...impetravit} relative clause
-{cum...erudiret...compelleretur...impetraret} @@(are these verbs in parallel or are they the verbs within the relative clause?) cum circumstantial
-Siccae- locative
-{quam...impugnaverat} relative clause
-pietatis- objective genitive
+@@{cum...erudiret...compelleretur...impetraret} cum circumstantial
+@@{Siccae}- locative (need to include?)
+{pietatis}- objective genitive
 :::
 2
-Siccae-locative
-{quae...exstant} relative clause
-senectute- ablative of description
+{Siccae}-locative
+{senectute}- ablative of description
 @@should the qui be after Firmianus? context would help here
 :::
 3
+{operis sui}- objective genitive
 :::
 4
 @@Do I need a comment about legendum? Gerundives in general?
 {ut...eligamus vitemusque} purpose clause
-{quae...sunt} relative clause
 :::
 5
+@@is this saying and Lactantius also wrote 7 volumes against the pagans? I think the rest of the sentence may correlate to something else but I'm uncertain
+
 
 Vocab
 abs	by, from; after
