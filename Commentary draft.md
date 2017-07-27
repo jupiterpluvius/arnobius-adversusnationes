@@ -16,14 +16,14 @@ Arnobius used to blindly follow the pagan traditions, but now clearly sees the t
 {quae sint}- indirect question
 {digna}- cognate accusative
 {quid... debeatur}- indirect question
-{gradibus, auctoritatibus}- ablative of respect
+{gradibus, auctoritatibus}- ablative of respect. Auctoritas means estimation in this instance- an obscure meaning.
 3
 {habeatur, afficiatur}- potential subjunctive
 {qui...potest excogitari}- relative clause, subject of afficiatur
 {omnium}- partitive genitive
 {ampliora}- sc. dona
 
-@@Should I do this for each section or all together? Brackets? In order of appearance or alphabetical? Choose the meaning for the passage or give a few and let the student pick?
+@@Should I do this for each section or all together? Brackets? In order of appearance or alphabetical? Choose the meaning for the passage or give a few and let the student pick?@@
 Vocab
 adulor, adulari, adulatus sum	fawn upon; flatter, court; make obeisance
 affor, affari, affatus sum speak to, address; be spoked to/addressed (PASS), be decreed by fate
@@ -45,7 +45,9 @@ promo, promere, promsi, promptus	take/bring out/forth; bring into view; bring ou
 taenia, taeniae F	ribbon, tape, band; film, movie
 tribuo, tribuere, tribui, tributus	divide, assign; present; grant, allot, bestow, attribute
 unguis, unguis M	nail, claw, talon
+veneror, venerari, veneratus sum adore, revere, do homage to, honor, venerate; worship; beg, pray, entreat
 veternosus, veternosa, veternosum	lethargic
+
 
 
 [2] The evidence of Jerome
@@ -71,6 +73,36 @@ senectute- ablative of description
 {quae...sunt} relative clause
 :::
 5
+
+Vocab
+abs	by, from; after
+adhuc	thus far, till now, to this point; hitherto; yet, as yet; still; besides
+contrarius, contraria, contrarium	opposite, contrary, in contradiction; antithetical; opposed/hostile/adverse
+credulitas, credulitatis F	credulity, trustfulness; easiness of belief
+declamo, declamare, declamavi, declamatus	declaim, make speeches; bluster/bawl
+eligo, eligere, elegi, electus	pick out, choose
+elucubro, elucubrare, elucubravi, elucubratus	compose at night; burn the midnight oil over, spend the night working
+episcopus, episcopi M	bishop; patriarch
+erudio, erudire, erudivi, eruditus	educate, teach, instruct
+ethnicus, ethnica, ethnicum	heathen; pagan
+exsto, exstare, -, -	stand forth/out; exist; be extant/visible; be on record
+florens, florentis (gen.), florentior -or -us, florentissimus -a -um	blooming/in bloom, flowering; flowery, bright/shining; flourishing, prosperous
+foedus, foederis N	treaty, league, formal agreement, alliance; P:peace, amity
+impetro, impetrare, impetravi, impetratus	obtain/procure; succeed/achieve/be granted; obtain
+inaequalis, inaequale, inaequalior -or -us, inaequalissimus -a -um	uneven; unequal; not smooth/level; irregular; patchy/variable
+juxta	nearly; near, close to, near by, hard by, by the side of; just as, equally
+luculentus, luculenta, luculentum shining, bright, brilliant, splendid;
+nimius, nimia, nimium	excessive, too great
+obses, obsidis	hostage; pledge, security
+partitio, partitionis F	distribution, share; classification, logical distinction; div. into sections
+pristinus, pristina, pristinum	former, oldtime, original; pristine
+quomodo	how, in what way; just as
+siccus, sicca, siccum	dry
+somnium, somni(i) N	dream, vision; fantasy, day-dream
+tandem	finally; at last, in the end; after some time, eventually; at length
+totidem, undeclined	as many; just so/as many; the equivalent number of, same
+volumen, voluminis book, chapter, fold
+vulgus, vulgi N	common people/general public/multitude/common herd/rabble/crowd/mob; flock
 
 [3] Diocletian's Persecution in the background
 2.76
