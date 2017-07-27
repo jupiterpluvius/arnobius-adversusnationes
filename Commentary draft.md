@@ -107,11 +107,12 @@ vulgus, vulgi N	common people/general public/multitude/common herd/rabble/crowd/
 
 [3] Diocletian's Persecution in the background
 2.76
-Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this, saying that God did not promise an easy life to those who follow him, but rather eternal deliverance.
+Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this fact, claiming that God did not promise an easy life to those who follow him, but rather eternal deliverance.
 1
 {si...servitis...confiditis} conditional protasis
 {eum habere} indirect statement
-salutis, incolumitatis- objective genitive
+{salutis, incolumitatis}- objective genitive
+{poenarum, suppliciorum}- partitive genitive
 2
 {cum...colatis} Cum concessive
 {cumque...constituatis...effingatis...mactetis...coniciatis} Cum concessive
