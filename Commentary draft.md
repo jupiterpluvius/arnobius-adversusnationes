@@ -109,77 +109,76 @@ vulgus, vulgī N	common people/general public/multitude/common herd/rabble/crowd
 2.76
 Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this fact, claiming that God did not promise an easy life to those who follow him, but rather eternal deliverance.
 1
-{si...servitis...confiditis} conditional protasis
-{eum habere} indirect statement
-{salutis, incolumitatis}- objective genitive
-@@{poenarum, suppliciorum}- partitive genitive
+{si...servītis...cōnfīditis} conditional protasis
+{eum habēre} indirect statement
+{salūtis, incolumitātis}- objective genitive
+@@{poenārum, suppliciōrum}- partitive genitive
 2
-{perquiramus}- hortatory subjunctive
-{cum...colatis} Cum concessive
-{cumque...constituatis...effingatis...mactetis...coniciatis} Cum concessive
-{illis}- dative of reference
-{altaribus}- ablative of location
-{discriminibus, procellis}- ablative of separation
+{perquīrāmus}- hortatory subjunctive
+{cum...cōlātis} Cum concessive
+{cumque...cōnstituātis...effingātis...mactētis...coniciātis} Cum concessive
+{illīs}- dative of reference
+{altāribus}- ablative of location
+{discrīminibus, procellīs}- ablative of separation
 3
-@@{morborum, valetudinum}- partitive? same as poenarum above
-{sublatis ingenuitatibus}- ablative absolute
+@@{morbōrum, valētūdinum}- partitive? same as poenarum above
+{sublātīs ingenuitātibus}- ablative absolute
 4
-{huiusmodi}- genitive of quality/characteristic
+{huiusmodī}- genitive of quality/characteristic
 {carunculae}- genitive of material
-{opis, auxilii}- partitive genitives
-@@{parvi}- partitive genitive? I know we discussed this but I cannot remember
+{opis, auxiliī}- partitive genitives
+@@{parvī}- partitive genitive? I know we discussed this but I cannot remember
 {fortunae}- objective genitive
-{siquando ingruerit} temporal clause
+{sīquandō ingruerit} temporal clause
 {quam...sit}- relative clause of characteristic
 @@{infortunio}-
-{quo...possimus}- relative clause of purpose
+{quō...possīmus}- relative clause of purpose
 
 
 Vocab
-aedes, aedis F	temple, shrine; tomb; apartment, room; house, abode, dwelling; household
-amissio, amissionis F	loss, deprivation
-animans, animantis	animate/living being/organism, creature; animal/plant
-aurum, auri N	gold, gold money, riches
-captivitas, captivitatis F	captivity/bondage; capture/act of being captured; blindness; captives
+aedēs, aedis F	temple, shrine; tomb; apartment, room; house, abode, dwelling; household
+āmissiō, āmissiōnis F	loss, deprivation
+animāns, animantīs	animate/living being/organism, creature; animal/plant
+aurum, aurī N	gold, gold money, riches
+captīvitās, captīvitātis F	captivity/bondage; capture/act of being captured; blindness; captives
 caruncula, carunculae F	little piece of flesh; piece of tissue, fleshy growth
-cesso, cessare, cessavi, cessatus	be remiss/inactive; hold back, leave off, delay, cease from; rest; be free of
-colo, colere, colui, cultus	live in, inhabit; till, cultivate, promote growth; foster, maintain
-confido, confidere, confisus sum	have confidence in, rely on, trust; believe, be confident/assured; be sure
-conicio, conicere, conjeci, conjectus	throw/put/pile together; conclude, infer/guess; assign, make go; classify, put
-consequor, consequi, consecutus sum	follow, go/come after; attend on; pursue; catch up with, overtake; follow up
-constituo, constituere, constitui, constitutus	set up/in position, erect; place/dispose/locate; halt; plant
-decerno, decernere, decrevi, decretus	decide/settle/determine/resolve; decree/declare/ordain; judge; vote for/contend
-discrimen, discriminis N	crisis, separating line, division; distinction, difference
-effingo, effingere, effinxi, effictus	fashion, form, mold; represent, portray, depict; copy; wipe away
-exitiabilis, exitiabilis, exitiabile	destructive, deadly
-exuo, exuere, exui, exutus	pull off; undress, take off; strip, deprive of; lay aside, cast off
-folliculus, folliculi M	bag or sack; pod; shell; follicle
+cessō, cessāre, cessāvī, cessātus	be remiss/inactive; hold back, leave off, delay, cease from; rest; be free of
+cōlō, colere, coluī, cultus	live in, inhabit; till, cultivate, promote growth; foster, maintain
+cōnfīdō, cōnfīdere, cōnfīsus sum	have confidence in, rely on, trust; believe, be confident/assured; be sure
+coniciō, conicere, conjēcī, conjectus	throw/put/pile together; conclude, infer/guess; assign, make go; classify, put
+cōnsequor, cōnsequī, cōnsecūtus sum	follow, go/come after; attend on; pursue; catch up with, overtake; follow up
+cōnstituō, cōnstituere, cōnstituī, cōnstitūtus	set up/in position, erect; place/dispose/locate; halt; plant
+dēcernō, dēcernere, dēcrēvī, dēcrētus	decide/settle/determine/resolve; decree/declare/ordain; judge; vote for/contend
+discrīmen, discrīminis N	crisis, separating line, division; distinction, difference
+effingō, effingere, effīnxī, effictus	fashion, form, mold; represent, portray, depict; copy; wipe away
+exitiābilis, exitiābilis, exitiābile	destructive, deadly
+exuō, exuere, exuī, exūtus	pull off; undress, take off; strip, deprive of; lay aside, cast off
+folliculus, folliculī M	bag or sack; pod; shell; follicle
 grex, gregis	flock, herd; crowd; company, crew; people/animals assembled; set/faction/class
-immunis, immunis, immune	free from taxes/tribute, exempt; immune
-inaequalis, inaequale, inaequalior -or -us, inaequalissimus -a -um	uneven; unequal; not smooth/level; irregular; patchy/variable
-incolumitas, incolumitatis F	safety
-infortunium, infortuni(i) N	misfortune, punishment
-ingenuitas, ingenuitatis F	status/quality of free-born person; nobility of character, modesty, candor
-ingruo, ingruere, ingrui, -	advance threateningly; make an onslaught on; break in, come violently, force
-macto, mactare, mactavi, mactatus	magnify, honor; sacrifice; slaughter, destroy
-morbus, morbi M	sickness, illness, weakness; disease; distemper; distress; vice
-naufragium, naufragi(i) N	shipwreck
+immūnis, immūnīs, immūne	free from taxes/tribūute, exempt; immune
+incolumitās, incolumitātis F	safety
+īnfortūnium, īnfortūnī(ī) N	misfortune, punishment
+ingenuitās, ingenuitātis F	status/quality of free-born person; nobility of character, modesty, candor
+ingruō, ingruere, ingruī, -	advance threateningly; make an onslaught on; break in, come violently, force
+mactō, mactāre, mactāvī, mactātus	magnify, honor; sacrifice; slaughter, destroy
+morbus, morbī M	sickness, illness, weakness; disease; distemper; distress; vice
+naufragium, naufragī(ī) N	shipwreck
 nimius, nimia, nimium	excessive, too great
-patior, pati, passus sum	suffer; allow; undergo, endure; permit
-perpetior, perpeti, perpessus sum	endure to the full
-perquiro, perquirere, perquisivi, perquisitus	search everywhere for
+patior, patī, passūs sum	suffer; allow; undergo, endure; permit
+perpetior, perpetī, perpessus sum	endure to the full
+perquīrō, perquīrere, perquīsīvī, perquīsītus	search everywhere for
 pestilentia, pestilentiae F	plague; pestilence; fever
 pignus, pignoris N	pledge, hostage, mortgage; bet, stake; symbol; relict
 procella, procellae F	storm, gale; tumult, commotion
-proscriptio, proscriptionis F	advertisement; notice of confiscation; proscription, pub of names of outlaws
+prōscrīptiō, prōscrīptiōnis F	advertisement; notice of confiscation; proscription, pub of names of outlaws
 quaepiam- any, some
-quinimmo	indeed, in fact; but truly; but/and more/furthermore
-ruina, ruinae F	fall; catastrophe; collapse, destruction
-simultas, simultatis F	enmity, rivalry; hatred
-supplicium, supplici(i) N	punishment, suffering; supplication; torture
-tenebrosus, tenebrosa, tenebrosum	dark, gloomy
-thus, thuris N	frankincense
-valetudo, valetudinis F	good health, soundness; condition of body/health; illness, indisposition
+quinimmō	indeed, in fact; but truly; but/and more/furthermore
+ruīnā, ruīnae F	fall; catastrophe; collapse, destruction
+simultās, simultātis F	enmity, rivalry; hatred
+supplicium, supplicī(ī) N	punishment, suffering; supplication; torture
+tenebrōsus, tenebrōsa, tenebrōsum	dark, gloomy
+thūs, thūris N	frankincense
+valētūdō, valētūdinis F	good health, soundness; condition of body/health; illness, indisposition
 
 
 2.77
