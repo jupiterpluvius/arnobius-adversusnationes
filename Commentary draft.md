@@ -23,7 +23,7 @@ Arnobius used to blindly follow the pagan traditions, but now clearly sees the t
 {omnium}- partitive genitive
 {ampliōra}- sc. dona
 
-@@Should I do this for each section or all together? Brackets? In order of appearance or alphabetical? Choose the meaning for the passage or give a few and let the student pick?@@
+
 Vocab
 adūlor, adūlārī, adūlātus sum	fawn upon; flatter, court; make obeisance
 affor, affārī, affātus sum speak to, address; be spoked to/addressed (PASS), be decreed by fate
@@ -53,26 +53,31 @@ veternōsus, veternōsā, veternōsum	lethargic
 [2] The evidence of Jerome
 According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity. The books were widely read, as Arnobius is a rhetorician of some renown, but Jerome does not enjoy his style.
 1
-@@{dēclāmandum}- gerundive in an expression of purpose-need to include gerundives?
+{ad dēclāmandum}- gerund in an expression of purpose
 {quī...ēlūcubrāvit...impetrāvit} relative clause
-@@{cum...ērudīret...compellerētur...impetrāret} cum circumstantial
-@@{Siccae}- locative (need to include?)
-{pietātis}- objective genitive
+{cum...ērudīret...compellerētur...impetrāret} cum temporal/causal
+@@{Siccae}- locative
+{pietātis}- genitive of description
 :::
 2
-{Siccae}-locative
-{senectūte}- ablative of description
-@@should the qui be after Firmianus? context would help here
+@@{Siccae}-locative
+{flōrentissimē}- more similarly "in his prime" or "with great celebrity"
+@@{Firmianus, Lactantius}-
+{senectūte}- ablative of time when
+{quī}- sc. appellātur
 :::
 3
 {operis suī}- objective genitive
 :::
 4
-@@Do I need a comment about legendum? Gerundives in general?
+@@{Orīginem, Tertullainum, Novatus, Apollinarius}- Origen
+{Orīginem...legendum}- indirect statement
+{legendum}- sc. esse
 {ut...ēligāmus vītēmusque} purpose clause
+{quae bona sunt}- relative clause as object
 :::
 5
-@@is this saying and Lactantius also wrote 7 volumes against the pagans? I think the rest of the sentence may correlate to something else but I'm uncertain
+@@{Lactantius}- i.e. Lactantius also wrote a seven-volume work against the pagans, called the *Divine Institutes* (Divinarum Institutionum)
 
 
 Vocab
@@ -93,9 +98,9 @@ impetrō, impetrāre, impetrāvī, impetrātus	obtain/procure; succeed/achieve/b
 inaequālis, inaequāle	uneven; unequal; not smooth/level; irregular; patchy/variable
 juxtā	nearly; near, close to, near by, hard by, by the side of; just as, equally
 lūculentus, lūculenta, lūculentum shining, bright, brilliant, splendid;
-nimius, nimia, nimium	excessīve, too great
-obses, obsidis	hostage; pledge, security
-partītiō, partītiōnis F	distribution, share; classification, logical distinction; div. into sections
+nimius, nimia, nimium	excessive, too great
+obses, obsidis	hostage; pledge
+partītiō, partītiōnis F	distribution, share; div. into sections
 prīstinus, prīstina, prīstinum	former, oldtime, original; pristine
 quōmodo	how, in what way; just as
 siccus, sicca, siccum	dry
@@ -328,4 +333,4 @@ NOTES
 manner- turn into an adverb
 means- turn into the subject of the sentence
 description- like genitive of characteristic- of great character
-add macrons
+In each dictionary entry, give most correct meaning, but leave fundamental meanings
