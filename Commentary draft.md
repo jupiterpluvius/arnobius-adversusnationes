@@ -117,22 +117,21 @@ Pagans and Christians alike suffer misfortunes, despite efforts to appease the g
 {perquiramus}- hortatory subjunctive
 {cum...colatis} Cum concessive
 {cumque...constituatis...effingatis...mactetis...coniciatis} Cum concessive
-illis- dative of reference
-altaribus- ablative of location
-discriminibus, procellis- ablative of separation
-{quibus...agunt}- relative clause
-@@are both perquiramus and cur...agitis main clause?
+{illis}- dative of reference
+{altaribus}- ablative of location
+{discriminibus, procellis}- ablative of separation
 3
-sublatis ingenuitatibus- ablative absolute
+@@{morborum, valetudinum}- partitive? same as poenarum above
+{sublatis ingenuitatibus}- ablative absolute
 4
-carunculae- genitive of material
-constitutis- dative of reference
-opis, auxilii- partitive genitives
-{quaecumque sunt} relative clause
-@@parvi- partitive genitive? I know we discussed this but I cannot remember
-fortunae- objective genitive? Need help distinguishing these
+{huiusmodi}- genitive of quality/characteristic
+{carunculae}- genitive of material
+{opis, auxilii}- partitive genitives
+@@{parvi}- partitive genitive? I know we discussed this but I cannot remember
+{fortunae}- objective genitive
 {siquando ingruerit} temporal clause
 {quam...sit}- relative clause of characteristic
+@@{infortunio}-
 {quo...possimus}- relative clause of purpose
 
 
@@ -201,6 +200,51 @@ pelliculis, cutibus- ablative of separation
 @@quanto,tanto clauses are what type?
 vinculis- ablative of separation
 circumcisis nexibus- ablative absolute
+
+
+Vocab
+affligo, affligere, afflixi, afflictus	overthrow/throw down; afflict, damage, crush, break, ruin; humble, weaken, vex
+ars, artis F	skill/craft/art; trick, wile; science, knowledge; method, way; character
+asperitas, asperitatis F	roughness; severity; difficulty; harshness; shrillness, sharpness; fierceness
+beluus, belua, beluum	proper/pertaining to beasts, bestial
+brutus, bruta, brutum	heavy, unwieldy, inert; dull, stupid, brute; irrational, insensitive, brutish
+carcer, carceris M	prison, jail; jailbird; starting barriers at race-course, traps; beginning
+circumcido, circumcidere, circumcidi, circumcisus	cut/make incision around, ring; clip; circumcise; cut out; remove; diminish
+comminuo, comminuere, comminui, comminutus	break/crumble into pieces, shatter; break up; crush, smash, pulverize; lessen
+cruciatus, cruciatus M	torture/cruelty; torture form/apparatus; suffering, severe physical/mental pain
+cutis, cutis F	skin; external appearance, surface; person, body; leather/hide; rind; membrane
+deicio, deicere, dejeci, dejectus	throw/pour/jump/send/put/push/force/knock/bring down; cause to fall/drop; hang
+divexo, divexare, divexavi, divexatus	drag about; pull this way and that; harass/harry/vex/trouble
+effigies, effigiei F	copy, image, likeness, portrait; effigy, statue; ghost
+egredior, egredi, egressus sum	go/march/come out; set sail; land, disembark; surpass, go beyond
+evolo, evolare, evolavi, evolatus	fly away, fly up/out/forth; rush out/forth
+exilium, exili(i) N	exile, banishment; place of exile/retreat; exiles, those exiled
+gravis, grave, gravior -or -us, gravissimus -a -um	heavy; painful; important; serious; pregnant; grave, oppressive, burdensome
+immanis, immane, immanior -or -us, immanissimus -a -um	huge/vast/immense/tremendous/extreme/monstrous; inhuman/savage/brutal/frightful
+infero, inferre, intuli, illatus	bring/carry in, import; advance, bring/march/step/move foward; impel, urge
+insto, instare, institi, -	pursue, threaten; approach, press hard; be close to; stand in/on
+itidem	in the same manner/way, just so; likewise, similarly, also
+janua, januae F	door, entrance
+lancino, lancinare, lancinavi, lancinatus	tear in/to pieces, rend, mangle
+liberatio, liberationis F	liberation/setting free, release/deliverance; acquittal/discharge
+nescio, nescire, nescivi, nescitus	not know; be ignorant/unfamiliar/unaware/unacquainted/unable/unwilling
+nexus, nexus M	obligation between creditor and debtor
+officio, officere, offeci, offectus	block the path, check, impede
+paries, parietis M	wall, house wall
+pellicula, pelliculae F	skin, hide
+pergo, pergere, perrexi, perrectus	go on, proceed
+praegravis, praegravis, praegrave	very heavy; burdensome
+quaestio, quaestionis F	questioning, inquiry; investigation
+relevo, relevare, relevavi, relevatus	relieve/alleviate/diminish/lighten; ease/refresh; exonerate; raise; lift
+renudo, renudare, renudavi, renudatus lay bare, strip; leave unprotected
+saevio, saevire, saevivi, saevitus	rage; rave, bluster; be/act angry/violent/ferocious; vent rage on
+scelero, scelerare, sceleravi, sceleratus	defile
+species, speciei F	sight, appearance, show; splendor, beauty; kind, type
+stolidus, stolida -um, stolidior -or -us, stolidissimus -a -um	dull, stupid, insensible; brutish; inert
+tego, tegere, texi, tectus	cover, protect; defend; hide
+uro, urere, ussi, ustus	burn
+vexatio, vexationis F	shaking, jolting; shock; disturbance, upheaval
+
 
 2.78
 Although Christians suffer terrible persecution, comfort can be found in the truth of Christ.
