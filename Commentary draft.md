@@ -283,6 +283,45 @@ urgeō, urgēre, ursī, -	press/squeeze/bear hard/down; tread/traverse continual
 vacuus, vacua, vacuum	empty, vacant, unoccupied; devoid of, free of
 valeō, valēre, valuī, valitus	be strong/powerful/influential/healthy; prevail
 
+@@Are we not doing 4.36 as part of the Intro?
+
+
+[4] The accusation
+1.1
+Christians are wrongly blamed for the various ills that have befallen the world since the birth of Christ.
+1 (we diagrammed this sentence, I wish I still had the sheet)
+{}
+
+Vocab
+aberrō, aberrāre, aberrāvī, aberrātus	stray, wander, deviate; go/be/do wrong; be unfaithful; escape; disagree
+assertor, assertōris  M one asserting status of another; restorer of liberty, protector, champion;
+bacchor, bacchārī, bacchātus sum	celebrate rites of Bacchus; revel/rave/riot; run wild; be frenzied/raving mad
+caelēs, caelitis M	the Gods; divinity, dweller in heaven; saint
+calumniōsus, calumniōsa, calumniōsum	that makes false/groundless accusations; marked by misinterpretations, false
+comperiō, comperīre, comperī, compertus	learn/discover/find; verify/know for certain; find guilty
+condignus, condigna, condignum	appropriate, worthy, befitting; wholly deserving, very worthy
+cōnstō, cōnstāre, cōnstitī, cōnstātus	agree/correspond/fit, be correct; be dependent/based upon; exist/continue/last
+contineō, continēre, continuī, contentus	secure, maintain, sustain; fasten/hold in position; retain, keep safe, preserve
+contraeō, contraīre, contraīvī(iī), contraītus	go against, oppose; make resistance
+crīminātiō, crīminātiōnis F	accusation, complaint, charge, indictment
+dēprōmō, dēprōmere, dēprōmpsī, depromptus	bring/draw out, fetch, produce; bring/utter
+dērelinquō, dērelinquere, dērelīquī, dērelictus	leave behind/abandon/discard; forsake/desert; neglect; leave derelict
+exāmen, exāminis N	exam/test; apparatus/process of weighing, balance
+exterminō, extermināre, extermināvī, exterminātus	banish, expel; dismiss
+īnsāniō, īnsānīre, īnsānīvī, īnsānītus	be mad, act crazily
+invīsō, invīsere, invīsī, invīsus	go to see, visit; watch over
+līs, lītīs F	lawsuit; quarrel
+maeror, maerōris M	grief, sorrow, sadness; mourning; lamentation
+mediocritās, mediocritātis F	moderateness; avoidance of extremes
+multifōrmis, multifōrmis, multifōrme	having many shapes
+obtineō, obtinēre, obtinuī, obtentus	get hold of; maintain; obtain; hold fast, occupy; prevail
+pereō, perīre, perīvī(iī), perītus	die, pass away; be ruined, be destroyed; go to waste
+quondam	formerly, once, at one time; some day, hereafter
+quoniam	because, since, seeing that
+silentium, silentī(ī) N	silence
+sollemnis, sollemne, sollemnior -or -us, sollemnissimus -ā -um	solemn, ceremonial, sacred, in accordance w/religion/law; traditional/customary
+statuō, statuere, statuī, statūtus	set up, establish, set, place, build; dēcide, think
+vitium, vītī(ī) N	fault, vice, crime, sin; defect
 
 
 NOTES
