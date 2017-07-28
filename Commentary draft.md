@@ -73,6 +73,7 @@ According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to
 @@{Orīginem, Tertullainum, Novatus, Apollinarius}- Origen
 {Orīginem...legendum}- indirect statement
 {legendum}- sc. esse
+{sic...quomodo}- correlatives, meaning "in the same way as", or literally "in this way...how"
 {ut...ēligāmus vītēmusque} purpose clause
 {quae bona sunt}- relative clause as object
 :::
@@ -114,16 +115,19 @@ vulgus, vulgī N	common people/general public/multitude/common herd/rabble/crowd
 2.76
 Pagans and Christians alike suffer misfortunes, despite efforts to appease the gods. Arnobius is not dissuaded from his faith by this fact, claiming that God did not promise an easy life to those who follow him, but rather eternal deliverance.
 1
-{si...servītis...cōnfīditis} conditional protasis
+{si...servītis...cōnfīditis}- present simple conditional
 {eum habēre} indirect statement
 {salūtis, incolumitātis}- objective genitive
 @@{poenārum, suppliciōrum}- partitive genitive
 2
-{perquīrāmus}- hortatory subjunctive
+{perquīrāmus}- jussive subjunctive
 {cum...cōlātis} Cum concessive
 {cumque...cōnstituātis...effingātis...mactētis...coniciātis} Cum concessive
-{illīs}- dative of reference
-{altāribus}- ablative of location
+{illīs}- dative of reference/advantage
+{animantium}- partitive genitive
+{thuris}- genitive of description
+{altāribus}- ablative of place where
+{immunes agitis}- "to live one's life, spend one's days, live, be" *OLD* s.v. ago 35b
 {discrīminibus, procellīs}- ablative of separation
 3
 @@{morbōrum, valētūdinum}- partitive? same as poenarum above
@@ -334,3 +338,13 @@ manner- turn into an adverb
 means- turn into the subject of the sentence
 description- like genitive of characteristic- of great character
 In each dictionary entry, give most correct meaning, but leave fundamental meanings
+
+Read the first chunk again
+
+Gathering testimonia, try to collate this work
+Think about what an introduction would need to have
+  what kinds of information, headings and subheadings for this intro
+  Work with factual information, dates and names,
+    Use Simmons for this, look at way he constructs his arguments and data used
+    What would life of Arnobius look like
+      About to pick up Arnobius for the first time, what would I need to know?
