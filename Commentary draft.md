@@ -251,17 +251,37 @@ vexatio, vexationis F	shaking, jolting; shock; disturbance, upheaval
 Although Christians suffer terrible persecution, comfort can be found in the truth of Christ.
 1
 {si...habet}-conditional
-@@{quam vos putatis}-relative clause
 2
-periculis- does it need a special usage tag?
-confugiamus,exigamus- hortatory subjunctive
+@@{periculis}-
+{confugiamus, exigamus}- hortatory subjunctive
+{muneris}-
 {cum...agatur}-cum circumstantial clause
-{ut...approbat}-comparison clause??
+{ut...approbat}-comparison clause
 
 
-
-
-
+Vocab
+annitor, anniti, annixus sum lean/rest upon, support oneself, (w/genibus) kneel; strive, work, exert, try;
+ago, agere, egi, actus	drive/urge/conduct/act; spend; thank; deliver
+aliter	otherwise, differently; in any other way
+ambigo, ambigere, -, -	hesitate, be in doubt; argue, dispute, contend; call in question; be at issue
+argumentum, argumenti N	proof; evidence, fact; argument; conclusion; reason, basis; subject/plot
+augustus, augusta -um, augustior -or -us, augustissimus -a -um	sacred, venerable; majestic, august, solemn; dignified; worthy of honor
+committo, committere, commisi, commissus	bring together, unite/join, connect/attach; put together, construct; entrust
+conquiro, conquirere, conquisivi, conquisitus	seek out; hunt/rake up; investigate; collect; search out/down/for diligently
+exigo, exigere, exegi, exactus	drive out, expel; finish; examine, weigh
+exitiabilis, exitiabilis, exitiabile	destructive, deadly
+faux, faucis F	pharynx, gullet/throat/neck/jaws/maw; narrow pass/shaft/strait; chasm
+immineo, imminere, -, -	threaten, be a threat; overhang, be imminent; with DAT
+obrepo, obrepere, obrepsi, obreptus	creep up on/approach unawares/unobserved; sneak/drop in; pay surprise visit on
+offero, offerre, obtuli, oblatus	offer; present; cause; bestow
+potentia, potentiae F	force, power, political power
+quare	in what way? how? by which means, whereby; why; wherefore, therefore, hence
+reperio, reperire, repperi, repertus	discover, learn; light on; find/obtain/get; find out/to be, get to know; invent
+respectus, respectus M	looking back; refuge, regard, consideration
+suspicor, suspicari, suspicatus sum	mistrust, suspect; suppose
+urgeo, urgere, ursi, -	press/squeeze/bear hard/down; tread/traverse continually; push/shove/thrust
+vacuus, vacua, vacuum	empty, vacant, unoccupied; devoid of, free of
+valeo, valere, valui, valitus	be strong/powerful/influential/healthy; prevail
 
 
 
