@@ -53,23 +53,23 @@ veternōsus, veternōsā, veternōsum	lethargic
 [2] The evidence of Jerome
 According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to Christianity. The books were widely read, as Arnobius is a rhetorician of some renown, but Jerome does not enjoy his style.
 1
-@@{declamandum}- gerundive in an expression of purpose-need to include gerundives?
-{qui...elucubravit...impetravit} relative clause
-@@{cum...erudiret...compelleretur...impetraret} cum circumstantial
+@@{dēclāmandum}- gerundive in an expression of purpose-need to include gerundives?
+{quī...ēlūcubrāvit...impetrāvit} relative clause
+@@{cum...ērudīret...compellerētur...impetrāret} cum circumstantial
 @@{Siccae}- locative (need to include?)
-{pietatis}- objective genitive
+{pietātis}- objective genitive
 :::
 2
 {Siccae}-locative
-{senectute}- ablative of description
+{senectūte}- ablative of description
 @@should the qui be after Firmianus? context would help here
 :::
 3
-{operis sui}- objective genitive
+{operis suī}- objective genitive
 :::
 4
 @@Do I need a comment about legendum? Gerundives in general?
-{ut...eligamus vitemusque} purpose clause
+{ut...ēligāmus vītēmusque} purpose clause
 :::
 5
 @@is this saying and Lactantius also wrote 7 volumes against the pagans? I think the rest of the sentence may correlate to something else but I'm uncertain
@@ -77,33 +77,33 @@ According to Jerome, Arnobius wrote *adversus gentes* to prove his conversion to
 
 Vocab
 abs	by, from; after
-adhuc	thus far, till now, to this point; hitherto; yet, as yet; still; besides
-contrarius, contraria, contrarium	opposite, contrary, in contradiction; antithetical; opposed/hostile/adverse
-credulitas, credulitatis F	credulity, trustfulness; easiness of belief
-declamo, declamare, declamavi, declamatus	declaim, make speeches; bluster/bawl
-eligo, eligere, elegi, electus	pick out, choose
-elucubro, elucubrare, elucubravi, elucubratus	compose at night; burn the midnight oil over, spend the night working
-episcopus, episcopi M	bishop; patriarch
-erudio, erudire, erudivi, eruditus	educate, teach, instruct
+adhūc	thus far, till now, to this point; hitherto; yet, as yet; still; besides
+contrārius, contrāria, contrārium	opposite, contrary, in contradiction; antithetical; opposed/hostile/adverse
+crēdulitās, crēdulitātis F	credulity, trustfulness; easiness of belief
+dēclāmō, dēclāmāre, dēclāmāvī, dēclāmātus	declaim, make speeches; bluster/bawl
+ēligō, ēligere, ēlēgī, ēlēctus	pick out, choose
+ēlūcubrō, ēlūcubrāre, ēlūcubrāvī, ēlūcubrātus	compose at night; burn the midnight oil over, spend the night working
+epīscopus, epīscopī M	bishop; patriarch
+ērudiō, ērudīre, ērudīvī, ērudītus	educate, teach, instruct
 ethnicus, ethnica, ethnicum	heathen; pagan
-exsto, exstare, -, -	stand forth/out; exist; be extant/visible; be on record
-florens, florentis (gen.), florentior -or -us, florentissimus -a -um	blooming/in bloom, flowering; flowery, bright/shining; flourishing, prosperous
-foedus, foederis N	treaty, league, formal agreement, alliance; P:peace, amity
-impetro, impetrare, impetravi, impetratus	obtain/procure; succeed/achieve/be granted; obtain
-inaequalis, inaequale, inaequalior -or -us, inaequalissimus -a -um	uneven; unequal; not smooth/level; irregular; patchy/variable
-juxta	nearly; near, close to, near by, hard by, by the side of; just as, equally
-luculentus, luculenta, luculentum shining, bright, brilliant, splendid;
-nimius, nimia, nimium	excessive, too great
+exstō, exstāre, -, -	stand forth/out; exist; be extant/visible; be on record
+flōrēns, flōrentis (gen.), flōrentior -or -us, flōrentissimus -ā -um	blooming/in bloom, flowering; flowery, bright/shining; flourishing, prosperous
+foedus, foederis N	treaty, league, formal agreement, alliance
+impetrō, impetrāre, impetrāvī, impetrātus	obtain/procure; succeed/achieve/be granted; obtain
+inaequālis, inaequāle	uneven; unequal; not smooth/level; irregular; patchy/variable
+juxtā	nearly; near, close to, near by, hard by, by the side of; just as, equally
+lūculentus, lūculenta, lūculentum shining, bright, brilliant, splendid;
+nimius, nimia, nimium	excessīve, too great
 obses, obsidis	hostage; pledge, security
-partitio, partitionis F	distribution, share; classification, logical distinction; div. into sections
-pristinus, pristina, pristinum	former, oldtime, original; pristine
-quomodo	how, in what way; just as
+partītiō, partītiōnis F	distribution, share; classification, logical distinction; div. into sections
+prīstinus, prīstina, prīstinum	former, oldtime, original; pristine
+quōmodo	how, in what way; just as
 siccus, sicca, siccum	dry
-somnium, somni(i) N	dream, vision; fantasy, day-dream
+somnium, somnī(ī) N	dream, vision; fantasy, day-dream
 tandem	finally; at last, in the end; after some time, eventually; at length
 totidem, undeclined	as many; just so/as many; the equivalent number of, same
-volumen, voluminis book, chapter, fold
-vulgus, vulgi N	common people/general public/multitude/common herd/rabble/crowd/mob; flock
+volūmen, volūminis book, chapter, fold
+vulgus, vulgī N	common people/general public/multitude/common herd/rabble/crowd/mob; flock
 
 [3] Diocletian's Persecution in the background
 2.76
