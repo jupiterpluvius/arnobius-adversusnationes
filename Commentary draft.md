@@ -112,8 +112,9 @@ Pagans and Christians alike suffer misfortunes, despite efforts to appease the g
 {si...servitis...confiditis} conditional protasis
 {eum habere} indirect statement
 {salutis, incolumitatis}- objective genitive
-{poenarum, suppliciorum}- partitive genitive
+@@{poenarum, suppliciorum}- partitive genitive
 2
+{perquiramus}- hortatory subjunctive
 {cum...colatis} Cum concessive
 {cumque...constituatis...effingatis...mactetis...coniciatis} Cum concessive
 illis- dative of reference
@@ -133,6 +134,54 @@ fortunae- objective genitive? Need help distinguishing these
 {siquando ingruerit} temporal clause
 {quam...sit}- relative clause of characteristic
 {quo...possimus}- relative clause of purpose
+
+
+Vocab
+aedes, aedis F	temple, shrine; tomb; apartment, room; house, abode, dwelling; household
+amissio, amissionis F	loss, deprivation
+animans, animantis	animate/living being/organism, creature; animal/plant
+aurum, auri N	gold, gold money, riches
+captivitas, captivitatis F	captivity/bondage; capture/act of being captured; blindness; captives
+caruncula, carunculae F	little piece of flesh; piece of tissue, fleshy growth
+cesso, cessare, cessavi, cessatus	be remiss/inactive; hold back, leave off, delay, cease from; rest; be free of
+colo, colere, colui, cultus	live in, inhabit; till, cultivate, promote growth; foster, maintain
+confido, confidere, confisus sum	have confidence in, rely on, trust; believe, be confident/assured; be sure
+conicio, conicere, conjeci, conjectus	throw/put/pile together; conclude, infer/guess; assign, make go; classify, put
+consequor, consequi, consecutus sum	follow, go/come after; attend on; pursue; catch up with, overtake; follow up
+constituo, constituere, constitui, constitutus	set up/in position, erect; place/dispose/locate; halt; plant
+decerno, decernere, decrevi, decretus	decide/settle/determine/resolve; decree/declare/ordain; judge; vote for/contend
+discrimen, discriminis N	crisis, separating line, division; distinction, difference
+effingo, effingere, effinxi, effictus	fashion, form, mold; represent, portray, depict; copy; wipe away
+exitiabilis, exitiabilis, exitiabile	destructive, deadly
+exuo, exuere, exui, exutus	pull off; undress, take off; strip, deprive of; lay aside, cast off
+folliculus, folliculi M	bag or sack; pod; shell; follicle
+grex, gregis	flock, herd; crowd; company, crew; people/animals assembled; set/faction/class
+immunis, immunis, immune	free from taxes/tribute, exempt; immune
+inaequalis, inaequale, inaequalior -or -us, inaequalissimus -a -um	uneven; unequal; not smooth/level; irregular; patchy/variable
+incolumitas, incolumitatis F	safety
+infortunium, infortuni(i) N	misfortune, punishment
+ingenuitas, ingenuitatis F	status/quality of free-born person; nobility of character, modesty, candor
+ingruo, ingruere, ingrui, -	advance threateningly; make an onslaught on; break in, come violently, force
+macto, mactare, mactavi, mactatus	magnify, honor; sacrifice; slaughter, destroy
+morbus, morbi M	sickness, illness, weakness; disease; distemper; distress; vice
+naufragium, naufragi(i) N	shipwreck
+nimius, nimia, nimium	excessive, too great
+patior, pati, passus sum	suffer; allow; undergo, endure; permit
+perpetior, perpeti, perpessus sum	endure to the full
+perquiro, perquirere, perquisivi, perquisitus	search everywhere for
+pestilentia, pestilentiae F	plague; pestilence; fever
+pignus, pignoris N	pledge, hostage, mortgage; bet, stake; symbol; relict
+procella, procellae F	storm, gale; tumult, commotion
+proscriptio, proscriptionis F	advertisement; notice of confiscation; proscription, pub of names of outlaws
+quaepiam- any, some
+quinimmo	indeed, in fact; but truly; but/and more/furthermore
+ruina, ruinae F	fall; catastrophe; collapse, destruction
+simultas, simultatis F	enmity, rivalry; hatred
+supplicium, supplici(i) N	punishment, suffering; supplication; torture
+tenebrosus, tenebrosa, tenebrosum	dark, gloomy
+thus, thuris N	frankincense
+valetudo, valetudinis F	good health, soundness; condition of body/health; illness, indisposition
+
 
 2.77
 Persecution is not a burden, but rather frees Christians from focus on worldly concerns.
