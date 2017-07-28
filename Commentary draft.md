@@ -185,21 +185,22 @@ valetudo, valetudinis F	good health, soundness; condition of body/health; illnes
 2.77
 Persecution is not a burden, but rather frees Christians from focus on worldly concerns.
 1
-{quam dicitis}- relative clause
+{persecūtiōnis}-objective genitive
+@@{lībertātis}- not sure
 2
 {ut si...existimet}-present contrary to fact
 {hominem...afficere}-indirect statement
-quaestionum?
+{quaestionum}- objective genitive
 {nisi...saeviat...comminuat...urat...renudet deiciat affligat}-present contrary to fact
-hoc facto- ablative absolute
+{hoc facto}- ablative absolute
 {cui videatur}- relative clause of purpose?
 {dari...lucem}- indirect statement
 {sceleratam eripi caecitam}-indirect statement
 {quibus...lancinatis et divexatis}- relative clause
-pelliculis, cutibus- ablative of separation
+{pelliculis, cutibus}- ablative of separation
 @@quanto,tanto clauses are what type?
-vinculis- ablative of separation
-circumcisis nexibus- ablative absolute
+{vinculis}- ablative of separation
+{circumcisis nexibus}- ablative absolute
 
 
 Vocab
@@ -259,6 +260,12 @@ confugiamus,exigamus- hortatory subjunctive
 
 
 
+
+
+
+
+
+NOTES
 manner- turn into an adverb
 means- turn into the subject of the sentence
 description- like genitive of characteristic- of great character
