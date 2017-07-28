@@ -4,49 +4,49 @@ COMMENTARY
 1.39
 Arnobius used to blindly follow the pagan traditions, but now clearly sees the truths of the world because of his devotion to Christ.
 1
-{ex malleis}- peculiar usage of ex, meaning by or using hammers
-{siquando conspexeram} temporal clause
+{ex malleīs}- peculiar usage of ex, meaning by or using
+{sīquandō cōnspexeram} temporal clause
 {tamquam inesset} clause of comparison
 {nihil}-cognate accusative
-{quos esse}- indirect statement, object of persuaseram
-{cum...credebam} temporal clause
-{eos esse...ossa...habitare} indirect statement
-{huiusmodi}- genitive of quality/characteristic
+{quōs esse}- indirect statement, object of persuāseram
+{cum...crēdēbam} temporal clause
+{eōs esse...ossa...habitāre} indirect statement
+{huiusmodī}- genitive of quality/characteristic
 2
 {quae sint}- indirect question
 {digna}- cognate accusative
-{quid... debeatur}- indirect question
-{gradibus, auctoritatibus}- ablative of respect. Auctoritas means estimation in this instance- an obscure meaning.
+{quid... dēbeātur}- indirect question
+{gradibus, auctōritātibus}- ablative of respect. Auctōritas means "estimation" in this instance- an obscure meaning.
 3
-{habeatur, afficiatur}- potential subjunctive
-{qui...potest excogitari}- relative clause, subject of afficiatur
+{habeātur, afficiātur}- potential subjunctive
+{quī...potest excōgitārī}- relative clause, subject of afficiātur
 {omnium}- partitive genitive
-{ampliora}- sc. dona
+{ampliōra}- sc. dona
 
 @@Should I do this for each section or all together? Brackets? In order of appearance or alphabetical? Choose the meaning for the passage or give a few and let the student pick?@@
 Vocab
-adulor, adulari, adulatus sum	fawn upon; flatter, court; make obeisance
-affor, affari, affatus sum speak to, address; be spoked to/addressed (PASS), be decreed by fate
-alioquin	otherwise, in other/some respects; besides, else; in any case; in general
-caecitas, caecitatis F	blindness, darkness; mental/moral blindness, lack of discernment
-contumelia, contumeliae F	indignity, affront, abuse/insult; insulting language/behavior; rough treatment
-excogito, excogitare, excogitavi, excogitatus	think out; devise, invent, contrive
-fornax, fornacis F	furnace/oven/kiln
-inconfusus, inconfusa, inconfusum	undismayed; not disconcerted; not embarrassed; unconfused
-incus, incudis F	anvil
-jamdudum	long ago/before/since; a long time ago; this long time; immediately, at once
-lignum, ligni N	wood; firewood; trunk/stump/tree; timber; beam/post; wood; stave
-lubrico, lubricare, lubricavi, lubricatus	make slippery; slip; render uncertain
-malleus, mallei M	hammer; mallet, maul
-nuper, -, nuperrime	recently, not long ago; in recent years/our own time; latest in series
-persona, personae F	mask; character; personality
-posco, poscere, poposci, -	ask, demand
-promo, promere, promsi, promptus	take/bring out/forth; bring into view; bring out/display on the stage
+adūlor, adūlārī, adūlātus sum	fawn upon; flatter, court; make obeisance
+affor, affārī, affātus sum speak to, address; be spoked to/addressed (PASS), be decreed by fate
+aliōquīn	otherwise, in other/some respects; besides, else; in any case; in general
+caecitās, caecitātis F	blindness, darkness; mental/moral blindness, lack of discernment
+contumēlia, contumēliae F	indignity, affront, abuse/insult; insulting language/behavior; rough treatment
+excōgitō, excōgitāre, excōgitāvī, excōgitātus	think out; devise, invent, contrive
+fornāx, fornācis F	furnace/oven/kiln
+incōnfūsus, incōnfūsa, incōnfūsum	undismayed; not disconcerted; not embarrassed; unconfused
+incūs, incūdis F	anvil
+jamdūdum	long ago/before/since; a long time ago; thīs long time; immediately, at once
+lignum, lignī N	wood; firewood; trunk/stump/tree; timber; beam/post; wood; stave
+lūbricō, lūbricāre, lūbricāvī, lūbricātus	make slippery; slip; render uncertain
+malleus, malleī M	hammer; mallet, maul
+nūper, -, nūperrimē	recently, not long ago; in recent years/our own time; latest in series
+persōna, persōnae F	mask; character; personality
+poscō, poscere, poposcī, -	ask, demand
+prōmō, prōmere, promsī, prōmptus	take/bring out/forth; bring into view; bring out/display on the stage
 taenia, taeniae F	ribbon, tape, band; film, movie
-tribuo, tribuere, tribui, tributus	divide, assign; present; grant, allot, bestow, attribute
-unguis, unguis M	nail, claw, talon
-veneror, venerari, veneratus sum adore, revere, do homage to, honor, venerate; worship; beg, pray, entreat
-veternosus, veternosa, veternosum	lethargic
+tribuō, tribuere, tribuī, tribūtus	divide, assign; present; grant, allot, bestow, attribute
+unguen, unguinis M  fat, grease, oil
+veneror, venerārī, venerātus sum adore, revere, do homage to, honor, venerate; worship; beg, pray, entreat
+veternōsus, veternōsā, veternōsum	lethargic
 
 
 
