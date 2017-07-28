@@ -246,38 +246,42 @@ vexātiō, vexātiōnis F	shaking, jolting; shock; disturbance, upheaval
 2.78
 Although Christians suffer terrible persecution, comfort can be found in the truth of Christ.
 1
-{si...habet}-conditional
+{sī...habet}- conditional @@(Don't think I need to mark this, because it is obvious?)
 2
-@@{periculis}-
-{confugiamus, exigamus}- hortatory subjunctive
-{muneris}-
-{cum...agatur}-cum circumstantial clause
+{cōnfugiāmus, exigāmus}- hortatory subjunctive
+{mūneris}- objective genitive (Don't know what else it could be)
+2@{cum...agātur}- cum circumstantial or temporal clause
 {ut...approbat}-comparison clause
-
+@@{Epictētum}- Epictetus was a Greek Stoic philosopher. His teachings were written down and published by his pupil Arrian in his *Discourses* and *Enchiridion*. Epictetus taught that philosophy is a way of life and not just a theoretical discipline. To Epictetus, all external events are beyond our control; we should accept calmly and dispassionately whatever happens. However, individuals are responsible for their own actions, which they can examine and control through rigorous self-discipline.
+@@{Arriānus}-Arrian of Nicomedia (c. 86/89 – c. after 146/160) was a Greek historian, public servant, military commander and philosopher of the Roman period. (QUOTING SOURCES ASK ABOUT)
+3
+@@{fideī}- seen plenum with both ablative and genitive
+{committāmus}- hortatory subjunctive
+{ne...obrēpat...reperiāmur}- negative purpose clause
+{dum...conquīrimus}- temporal clause
 
 Vocab
-annitor, anniti, annixus sum lean/rest upon, support oneself, (w/genibus) kneel; strive, work, exert, try;
-ago, agere, egi, actus	drive/urge/conduct/act; spend; thank; deliver
+annītor, annītī, annīxus sum lean/rest upon, support oneself
 aliter	otherwise, differently; in any other way
-ambigo, ambigere, -, -	hesitate, be in doubt; argue, dispute, contend; call in question; be at issue
-argumentum, argumenti N	proof; evidence, fact; argument; conclusion; reason, basis; subject/plot
-augustus, augusta -um, augustior -or -us, augustissimus -a -um	sacred, venerable; majestic, august, solemn; dignified; worthy of honor
-committo, committere, commisi, commissus	bring together, unite/join, connect/attach; put together, construct; entrust
-conquiro, conquirere, conquisivi, conquisitus	seek out; hunt/rake up; investigate; collect; search out/down/for diligently
-exigo, exigere, exegi, exactus	drive out, expel; finish; examine, weigh
-exitiabilis, exitiabilis, exitiabile	destructive, deadly
-faux, faucis F	pharynx, gullet/throat/neck/jaws/maw; narrow pass/shaft/strait; chasm
-immineo, imminere, -, -	threaten, be a threat; overhang, be imminent; with DAT
-obrepo, obrepere, obrepsi, obreptus	creep up on/approach unawares/unobserved; sneak/drop in; pay surprise visit on
-offero, offerre, obtuli, oblatus	offer; present; cause; bestow
+ambigō, ambigere, -, -	hesitate, be in doubt; argue, dispute, contend; call in question; be at issue
+argūmentum, argūmentī N	proof; evidence, fact; argument; conclusion; reason, basis; subject/plot
+augustus, augusta -um, augustior -or -us, augustissimus -ā -um	sacred, venerable; majestic, august, solemn; dignified; worthy of honor
+committō, committere, commīsī, commissus	bring together, unite/join, connect/attach; put together, construct; entrust
+conquīrō, conquīrere, conquīsīvī, conquīsītus	seek out; hunt/rake up; invesigate; collect; search out/down/for diligently
+exigō, exigere, exēgī, exāctus	drive out, expel; finish; examine, weigh
+exitiābilis, exitiābilis, exitiābile	destructive, deadly
+faux, faucīs F	pharynx, gullet/throat/neck/jaws/maw; narrow pass/shaft/strait; chasm
+immineō, imminēre, -, -	threaten, be a threat; overhang, be imminent; with DAT
+obrēpō, obrēpere, obrēpsī, obrēptus	creep up on/approach unawares/unobserved; sneak/drop in; pay surprise visit on
+offerō, offerre, obtulī, oblātus	offer; present; cause; bestow
 potentia, potentiae F	force, power, political power
-quare	in what way? how? by which means, whereby; why; wherefore, therefore, hence
-reperio, reperire, repperi, repertus	discover, learn; light on; find/obtain/get; find out/to be, get to know; invent
-respectus, respectus M	looking back; refuge, regard, consideration
-suspicor, suspicari, suspicatus sum	mistrust, suspect; suppose
-urgeo, urgere, ursi, -	press/squeeze/bear hard/down; tread/traverse continually; push/shove/thrust
+quārē	in what way? how? by which means, whereby; why; wherefore, therefore, hence
+reperiō, reperīre, repperī, repertus	discover, learn; light on; find/obtain/get; find out/to be, get to know; invent
+respectūs, respectūs M	looking back; refuge, regard, consideration
+suspicor, suspicārī, suspicātus sum	mistrust, suspect; suppose
+urgeō, urgēre, ursī, -	press/squeeze/bear hard/down; tread/traverse continually; push/shove/thrust
 vacuus, vacua, vacuum	empty, vacant, unoccupied; devoid of, free of
-valeo, valere, valui, valitus	be strong/powerful/influential/healthy; prevail
+valeō, valēre, valuī, valitus	be strong/powerful/influential/healthy; prevail
 
 
 
