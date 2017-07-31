@@ -350,8 +350,22 @@ Think about what an introduction would need to have
       About to pick up Arnobius for the first time, what would I need to know?
 
 Life of Arnobius
+  Not a renowned figure among Church fathers
+  Make sure not to overstate information found in the Jerome intro section
+  Talk about Sicca and being African
+The plight of Christians in the 4th century
+  Give a history of Christianity in the Roman empire
+  Include information about Diocletian
+  State persecution of Christians
+  Saturn cult of N. Africa vs Christians
+  Christian "apologetics"- Was Arnobius one?
 Adversus Gentes
   Relationship with Lactantius
-  Retort to a pagan work
+  Retort to a pagan work?
+  Religious changes (orthodoxy vs heretics)
+  Does not fit neatly into one branch of Christianity
+    Has been called gnostic
+    Pagan-Christian hybrid
+
 
 Chronology/Timeline
