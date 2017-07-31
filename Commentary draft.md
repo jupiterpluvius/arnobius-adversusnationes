@@ -350,9 +350,13 @@ Think about what an introduction would need to have
       About to pick up Arnobius for the first time, what would I need to know?
 
 Life of Arnobius
+  What we know for sure
+    Jerome's testimony
   Not a renowned figure among Church fathers
   Make sure not to overstate information found in the Jerome intro section
   Talk about Sicca and being African
+    Southwest of Carthage in the province Africa Proconsularis
+    Mentions local deities worshipped by Moors
 The plight of Christians in the 4th century
   Give a history of Christianity in the Roman empire
   Include information about Diocletian
@@ -360,6 +364,7 @@ The plight of Christians in the 4th century
   Saturn cult of N. Africa vs Christians
   Christian "apologetics"- Was Arnobius one?
 Adversus Gentes
+  When it was written 303-305 (Diocletian's abdication)
   Relationship with Lactantius
   Retort to a pagan work?
   Religious changes (orthodoxy vs heretics)
