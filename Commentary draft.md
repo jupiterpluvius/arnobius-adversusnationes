@@ -348,3 +348,10 @@ Think about what an introduction would need to have
     Use Simmons for this, look at way he constructs his arguments and data used
     What would life of Arnobius look like
       About to pick up Arnobius for the first time, what would I need to know?
+
+Life of Arnobius
+Adversus Gentes
+  Relationship with Lactantius
+  Retort to a pagan work
+
+Chronology/Timeline
