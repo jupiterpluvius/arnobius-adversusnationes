@@ -353,25 +353,39 @@ Think about what an introduction would need to have
 Life of Arnobius
   What we know for sure
     Jerome's testimony
+    Was he converted by a dream?
   Not a renowned figure among Church fathers
-  Make sure not to overstate information found in the Jerome intro section
+  Make sure not to overstate information found in the Jerome intro section (as the reader will see this later)
   Talk about Sicca and being African
     Southwest of Carthage in the province Africa Proconsularis
     Mentions local deities worshipped by Moors
-The plight of Christians in the 4th century
+The plight of Christians in the 4th century (subcategory?)
+  Diocletian's great persecution
   Give a history of Christianity in the Roman empire
-  Include information about Diocletian
+  Include information about Diocletian (pg 33)
   State persecution of Christians
+    Propaganda, like Porphyry
+    Oracles
+    Intellectual justification
+    Literary Criticism and pagan evangelical soteriology
   Saturn cult of N. Africa vs Christians
+    Porphyry influenced his perception of religion
   Christian "apologetics"- Was Arnobius one?
 Adversus Gentes
+  Organization (books 1-2, 3, and 4-7 categories)
+  Themes (look at ToC)
+  Also called Adversus Nationes
   When it was written 303-305 (Diocletian's abdication)
   Relationship with Lactantius
-  Retort to a pagan work?
+  Retort to a pagan work? In the style of literary retortion
+    This pagan work wanted to show that Christianity was devoid
   Religious changes (orthodoxy vs heretics)
   Does not fit neatly into one branch of Christianity
     Has been called gnostic
     Pagan-Christian hybrid
+    Not long-established as a Christian
+      Only references Peter, may not even know other things
+    Weird view- man is weak and powerless, wretched, etc.
 
-
+(Ask about pg 8 of Simmons)
 Chronology/Timeline
