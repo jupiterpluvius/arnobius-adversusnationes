@@ -131,6 +131,7 @@ Pagans and Christians alike suffer misfortunes, despite efforts to appease the g
 {discrīminibus, procellīs}- ablative of separation
 3
 @@{morbōrum, valētūdinum}- partitive? same as poenarum above
+{pignorum, urbium}- objective genitives
 {sublātīs ingenuitātibus}- ablative absolute
 4
 {huiusmodī}- genitive of quality/characteristic
