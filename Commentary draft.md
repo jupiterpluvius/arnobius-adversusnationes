@@ -293,7 +293,6 @@ urgeō, urgēre, ursī, -	press/squeeze/bear hard/down; tread/traverse continual
 vacuus, vacua, vacuum	empty, vacant, unoccupied; devoid of, free of
 valeō, valēre, valuī, valitus	be strong/powerful/influential/healthy; prevail
 
-@@Are we not doing 4.36 as part of the Intro?
 
 
 [4] The accusation
@@ -357,8 +356,9 @@ Life of Arnobius
   Not a renowned figure among Church fathers
   Make sure not to overstate information found in the Jerome intro section (as the reader will see this later)
   Talk about Sicca and being African
-    Southwest of Carthage in the province Africa Proconsularis
+    Southwest of Carthage in the province Africa Proconsularis (Augustine)
     Mentions local deities worshipped by Moors
+
 The plight of Christians in the 4th century (subcategory?)
   Diocletian's great persecution
   Give a history of Christianity in the Roman empire
@@ -371,6 +371,7 @@ The plight of Christians in the 4th century (subcategory?)
   Saturn cult of N. Africa vs Christians
     Porphyry influenced his perception of religion
   Christian "apologetics"- Was Arnobius one?
+
 Adversus Gentes
   Organization (books 1-2, 3, and 4-7 categories)
   Themes (look at ToC)
@@ -387,5 +388,16 @@ Adversus Gentes
       Only references Peter, may not even know other things
     Weird view- man is weak and powerless, wretched, etc.
 
-(Ask about pg 8 of Simmons)
-Chronology/Timeline
+Chronology/Timeline?
+
+Read first ~11 chapters of Susan Raven Rome in Africa
+Read OCD entry on Roman Africa
+Read Brill's new Pauly entry on Roman Africa
+Read Article on Africa that Childree gave me
+Know enough to understand why Arnobius is different and talks about different things
+Meet again Friday
+  Write the section on Roman Africa
+    No more than five pages
+    what seems to be relevant for understanding Africanness and how it affects what we're looking at
+    Writing for a basic audience
+    Not wanting to read about Roman Africa, but need help understanding Arnobius
