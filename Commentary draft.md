@@ -396,8 +396,9 @@ Read Brill's new Pauly entry on Roman Africa
 Read Article on Africa that Childree gave me
 Know enough to understand why Arnobius is different and talks about different things
 Meet again Friday
+
   Write the section on Roman Africa
-    No more than five pages
+    No more than five pages double spaced
     what seems to be relevant for understanding Africanness and how it affects what we're looking at
     Writing for a basic audience
     Not wanting to read about Roman Africa, but need help understanding Arnobius
