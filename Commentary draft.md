@@ -386,6 +386,7 @@ Adversus Gentes
     Pagan-Christian hybrid
     Not long-established as a Christian
       Only references Peter, may not even know other things
+      Uses mostly Greek and mostly Pagan sources
     Weird view- man is weak and powerless, wretched, etc.
 
 Chronology/Timeline?
