@@ -403,3 +403,5 @@ Meet again Friday
     what seems to be relevant for understanding Africanness and how it affects what we're looking at
     Writing for a basic audience
     Not wanting to read about Roman Africa, but need help understanding Arnobius
+
+Much of the reading was too specific to include in the section on Africa- tried to focus on what directly related to Arnobius
