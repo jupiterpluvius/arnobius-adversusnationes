@@ -1,16 +1,16 @@
 Reading list for introduction
 -----------------------------------
 
-# Tilley. "Roman Africa" in Cambridge History of Christianity vol 1.
+# Shaw. "Cult and Belief in Punic and Roman Africa" in Cambridge History of Religions in the Ancient World.
 
+# Tilley. "Roman Africa" in Cambridge History of Christianity vol 1.
 
 # Jensen. "Christianity in Roman Africa" in Cambridge History of Religions in the Ancient World.
 
-
-# Shaw. "Cult and Belief in Punic and Roman Africa" in Cambridge History of Religions in the Ancient World.
-
-
 # Shaw. "Who are You? Africa and Africans" in Blackwell Companion to Ethnicity in the Ancient Mediterranean.
+
+
+
 
 
 
