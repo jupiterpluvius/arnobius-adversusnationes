@@ -37,6 +37,7 @@ Useful info
 Seem to have practiced child sacrifice, as stated
 Saturn Cult Information, along with other cults
 Way in which Romanization was received- power struggle or other reasons
+Emperor's Cult may not have been as important as previously thought
 
 follow-up concerning Arnobius
 Information about local pagan traditions before Christianity
@@ -44,6 +45,44 @@ Christianity's arrival provoked distress for the locals in losing core beliefs
 Saturn Cult
 
 # Tilley. "Roman Africa" in Cambridge History of Christianity vol 1.
+Notes
+Lit. evidence comes from Tertullian, Minucius Felix, Cyprian, Commodian, and others (Arnobius and Lactantius are outside the scope of this work) pg 381
+no evidence of buildings set aside as churches before 300 CE pg 382
+Carthage oligarchy got Romans involved pg 382
+Severans became first African emperors pg 383
+Many other redistributions occurred, like under Diocletian, supporting Romanization and administration of the frontiers pg 383
+Romanization was strongest in coastal and military areas, but not all cities had Roman mores or govt pg 383
+Some Romanization of architecture and names occurred, but only when it was to the advantage of the Africans to use it pg 384
+Punic religion survived in cities assimilated to Roman cults pg 385
+Child sacrifice was used to avert catastrophe pg 385
+Semitic roots and lack of founding apostle means no certainty pg 386
+Jewish communities around Carthage may have been the foundation of Christianity in Africa, and had many of the same practices pg 386
+There were a great number of bishops, would discuss but decide for their own people what the doctrines would be pg 387
+Christians in Africa persecuted intermittently from 180-305 pg 387
+"In assessing the strength and effects of persecution, one must recognize that not all Christians in every area of the empire were persecuted at the same time in the same way. Even imperial edicts designed to promote empire-wide uniformity depended upon local enforcement which may have been sporadic or non-existent in one place while sustained and severe elsewhere. The ambient ideal of human sacriﬁce, whether in war or at the altar, supported the Christian notion of the acceptability of offering one’s life in ﬁdelity, but it should be noted that no motifs of human sacriﬁce directly color martyrdom narratives" pg 388
+Had many martyrdom stories, like proconsul treating nicely but Christians would not worship the emperor pg 388
+Septimius Severus made Christianity illegal pg 388
+Persecuted during the 250s by Decius during time of trouble to ensure pax deorum. Many Christians were exiled or killed pg 389
+"In 256 Valerian issued an edict requiring higher-ranking clergy to sacriﬁce on behalf of the emperor, proscribing Christian assemblies, conﬁscating property and forbidding Christians to have their own cemeteries" pg 390
+Cyprian was executed in 258 for his status pg 390
+many martyrs and confessors were held in high esteem leading up to Diocletian pg 391
+Christians rationalized their fidelity with Apologetic works- wrote absurdity of traditional cults pg 392
+"Christians claimed to be plain-living and morally upright. Their lack of ease with the ambient culture played out in paradoxical ways. Tertullian’s expressed disdain for philosophy and dialectic (Spect. 18, An. 3) and Arnobius’ rejection of rhetoric (Adv. nat. 1.59) are summed up in Tertullian’s famous aphorism, ‘What is there in common between Athens and Jerusalem, between academe and church, between heretics and Christians?’ (Praescr. 7), yet even this is expressed in the best classical style" pg 392
+local practices sprung up due to low numbers and high distances pg 393
+Most Christians in Africa believed that God provided revelations through dreams pg 393
+Issues: could Church reconcile those who sinned after baptism? caused divisions pg 394
+African Christianity was literalistic and legalistic- solve problems pg 395
+Women valued and had a role as leaders pg 395
+Tended towards literal and strict interpretations of scripture and morality, unity and collegiality are important pg 396
+
+
+Important Information
+
+Arnobius follow-up
+Africans believed that dreams were Important
+Direct reference to Arnobius in quote about rejection of complexity
+How was the persecution in Africa comparative to other parts of the world?
+Characterizations of African Christianity- Divisions and beliefs are less central
 
 # Jensen. "Christianity in Roman Africa" in Cambridge History of Religions in the Ancient World.
 
