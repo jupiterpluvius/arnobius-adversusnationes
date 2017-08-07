@@ -20,13 +20,13 @@ After 146 BCE Greek and Roman deities mixed and associated with aspects of other
 Romans had an impact on official ritual as imperial state, provincial administration, and local municipal government pg 244
 large-scale deliberate importing of official cult began in the Augustan age pg 244
 Romans built public buildings in the Province, places where Christians would later have to make public sacrifices pg 245
-core "western" provinces of Proconsularis, Numidia, and the Mauretanias the Saturn cult was overarching pg 247
+Core "western" provinces of Proconsularis, Numidia, and the Mauretanias the Saturn cult was overarching pg 247
 Certain regions had Jupiter, Isis, Serapis, Mercury, and Silvanus cults pg 247
 "Saturn and Caelestis were living continuators of Ba’al and Tinnit...the cult of Saturn was the pervasive and dominant African practice of the Roman imperial age." pg 248
 "the worship of the emperors gradually added to the legitima-tion of their rule in the provinces. Despite its apparent signiﬁ cance for the central government, imperial ideology, and the identity of local elites, the general importance of the imperial cult or emperor worship is probably less than is perhaps suggested by the modern attention lavished upon it" pg 250
 core institutions of emperor worship were almost unknown in Africa pg 251
 except for concilium provinciae, which was made to reform and regulate this pg 251
-“Romanizing” towns ( res publicae ) whose elites, seeking to mimic the forms of Roman public life, developed their local forms of official cult" pg 252
+“Romanizing” towns (res publicae) whose elites, seeking to mimic the forms of Roman public life, developed their local forms of official cult" pg 252
 elites liked Dionysus pg 252
 micro-cults and personal belief were also common, with superstition rampant pg 254
 "So profuse and fragmented and mixed were the deities and their various presences, and so fragmentary is the evidence about them, that in most cases all we  can  see is this effect" pg 258
@@ -82,6 +82,7 @@ The African Church held literalism in high esteem, but was scattered in theology
 Divisions arose because of firm theological beliefs in different areas
 Martyrs and Confessors were held in the highest esteem, such that they were granted the status of church leaders
 
+
 Arnobius follow-up
 Africans believed that dreams were Important
 Direct reference to Arnobius in quote about rejection of complexity
@@ -92,7 +93,7 @@ Characterizations of African Christianity- Divisions and beliefs are less centra
 
 Notes
 No one knows when Christianity arrived in Africa pg 264
-AFrican Christanity did not survive under Muslim rule like in other places pg 264
+African Christanity did not survive under Muslim rule like in other places pg 264
 Just as the Africans were when they were pagans, Christians had differing theology, ecclesiology and rituals from local practice so no national church pg 264
 Cycle of oppressors came to break apart the African church pg 265
 African Christians valued purity, sacrifice, and dreams pg 265
@@ -163,6 +164,11 @@ Notes for follow-up concerning Arnobius
 Strong appeal to identity present for Africans as a whole, common language and identity. This identity was present even for heavily Romanized people
 
 page numbers listed are book not pdf labels
+
+
+Rebuilding causes lack of archaeological evidence
+Know for sure about things like a stillborn infant
+
 ---
 Burns and Jensen. Christianity in Roman Africa: the development of its practices and beliefs (early chapters)  (BR190.C49)
 Decret. Early Christianity in North Africa (chs 1-2)
