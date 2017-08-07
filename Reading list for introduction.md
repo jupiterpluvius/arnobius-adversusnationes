@@ -168,7 +168,6 @@ page numbers listed are book not pdf labels
 
 Rebuilding causes lack of archaeological evidence
 Know for sure about things like a stillborn infant
-
 ---
 Burns and Jensen. Christianity in Roman Africa: the development of its practices and beliefs (early chapters)  (BR190.C49)
 Decret. Early Christianity in North Africa (chs 1-2)
