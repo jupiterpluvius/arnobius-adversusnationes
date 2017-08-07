@@ -14,3 +14,8 @@ Unity and Diversification of Roman Unification for example
 Anywhere that it looks like further investigation is necessary
 
 Roughing out versions of each of the subsections in step 1
+
+No reason to quote a scholar for the assertion of a fact
+Things like really good phrasing, conclusions to be challenged or supported
+
+If I find a good map make note of it 

@@ -63,7 +63,7 @@ Christians in Africa persecuted intermittently from 180-305 pg 387
 Had many martyrdom stories, like proconsul treating nicely but Christians would not worship the emperor pg 388
 Septimius Severus made Christianity illegal pg 388
 Persecuted during the 250s by Decius during time of trouble to ensure pax deorum. Many Christians were exiled or killed pg 389
-"In 256 Valerian issued an edict requiring higher-ranking clergy to sacriﬁce on behalf of the emperor, proscribing Christian assemblies, conﬁscating property and forbidding Christians to have their own cemeteries" pg 390
+Valerian enacted many practices that hurt Christians, like not allowing Christians  pg 390
 Cyprian was executed in 258 for his status pg 390
 many martyrs and confessors were held in high esteem leading up to Diocletian pg 391
 Christians rationalized their fidelity with Apologetic works- wrote absurdity of traditional cults pg 392
