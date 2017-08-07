@@ -77,6 +77,10 @@ Tended towards literal and strict interpretations of scripture and morality, uni
 
 
 Important Information
+Persecutions were different in the African provinces
+The African Church held literalism in high esteem, but was scattered in theology due to distance and low numbers between churches
+Divisions arose because of firm theological beliefs in different areas
+Martyrs and Confessors were held in the highest esteem, such that they were granted the status of church leaders
 
 Arnobius follow-up
 Africans believed that dreams were Important
@@ -85,6 +89,48 @@ How was the persecution in Africa comparative to other parts of the world?
 Characterizations of African Christianity- Divisions and beliefs are less central
 
 # Jensen. "Christianity in Roman Africa" in Cambridge History of Religions in the Ancient World.
+
+Notes
+No one knows when Christianity arrived in Africa pg 264
+AFrican Christanity did not survive under Muslim rule like in other places pg 264
+Just as the Africans were when they were pagans, Christians had differing theology, ecclesiology and rituals from local practice so no national church pg 264
+Cycle of oppressors came to break apart the African church pg 265
+African Christians valued purity, sacrifice, and dreams pg 265
+Tertullian inspired many theologians, and western church thinkers pg 265
+Local people were blend of native African and Punic people, intermarried with Romans and other immigrants, had native languages persist in rural areas, but Latin was the governing, elite language for even Christian intellectuals pg 266
+Despite being illegal African Christianity was well established in early 3rd century- council of Carthage as proof pg 266
+@@The church attracted persons of status, education, and wealth pg 268
+Most 3rd century Christians were converts from Roman religion pg 268
+Christians were secretive so as to avoid even passive contact with pagan worship pg 268
+Relationship between Jews and Christians somewhat unclear pg 268
+Heretical groups became prominent with divergent views on incarnation, the material world, and God of OT pg 269
+Roman African love for blood sport shaped perception of martyrs as athletes pg 270
+Carthaginian human sacrifice may have influenced martyr cult- Tertullian says that no one should reproach God for martyrs as Saturn required human sacrifice pg 270
+Persecution of Decius led to purity being given to clergy, not all- many did what they needed to avoid punishment pg 272
+The Great Persecution strained ideals of purity as even bishops were traditores pg 272
+Donatist controversy led to Constantine stepping in to break schism, violently and caused issues for many years pg 272
+"Donatism’s strength was an instance of native African identity asserting itself over against Roman culture, religion, and political domination. Allied with the rural population and the lower social classes (especially in Numidia), the Donatists opposed the more Romanized (i.e., less African) inhabitants of large urban centers" pg 273
+Manichees believed martyrdom was unnecessary, rejecting deeply held African Christian beliefs, and rejected resurrection and sacraments pg 275
+Devotees of pre-Christian gods dwindled pg 276
+Christian faith replaced Roman cult, Theodosius outlawed sacrifice pg 276
+Vandals invaded, with their own Christianity, and attacked "romanity" pg 278
+Created their own system pg 281
+Byzantine and later Muslim rule met many of the same problems pg 285
+Justinian forced much of the church to conform, or tried pg 286
+Donatism had a revival in the sixth century pg 287
+Arab conquest makes African christianity record die out entirely pg 288
+Foreign occupation, divisive doctrine caused community to falter pg 288
+Arabs shared ancient indigenous values of African Christianity- emphasis on purity, martyrs, and the righteous community is guaranteed and guarded by authentic religious faith pg 289
+
+Important Information
+No one knows when Christianity arrived
+African Christian values stemmed from the pagan values
+Persecutions both strained and strengthened these ideals
+Controversies were prevalent throughout African Christianity because of a lack of unity in the Church from the beginning
+
+Arnobius
+Great Persecution and strength of the Persecution
+African Christian values- how did they influence what he attacked? Did not want to attend temples or sacrifices
 
 # Shaw. "Who are You? Africa and Africans" in Blackwell Companion to Ethnicity in the Ancient Mediterranean.
 
