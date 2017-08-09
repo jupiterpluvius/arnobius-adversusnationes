@@ -24,7 +24,17 @@ Things like really good phrasing, conclusions to be challenged or supported
 If I find a good map make note of it
 
 Length is however long it takes me
-Information determines it- depends on what I can prove
-Can't say anything about Arnobius's early life
 
-Would have to re-read the work for places where he interacts
+List of interesting topics:
+Sicca as a major Christian center- "most Christian"
+History of Romanization, creation of Africa Proconsularis
+Security creates opportunity for thriving literary scene
+Level/degree of Romanization- multicultural identity
+Beliefs of Pre-Roman African religion- henotheism, Saturn, rocks, sacrifice, old gods, sacred prostitution
+Participation in Persecution
+Sources in African Christianity-Tertullian, Minucius Felix, Clement of Alexandria etc.
+African style? (McCracken's assertion)
+
+Subdivisions:
+
+Romanization
