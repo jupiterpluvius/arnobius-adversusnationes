@@ -42,5 +42,23 @@ Christianity in Africa
 What it means to be African- a multicultural identity
 
 Factual, Primary Source References w/annotation:
+The little material or archaelogical evidence for 8th century BCE African religion suggests a generalized connection with animating forces of nature Shaw 237
+Concentration of shrines and dedications to Neptune show continuity of religions Shaw 237
+Annual journey to the mountain cave for sacrificing (inscription) Shaw 238
+  Another one in Cirta Shaw 238
+7 unique African deities were named on a stele from Roman period Shaw 238
+5 unique deities on a list called Dii Magifae found, proving localization of cults Shaw 239
+Descriptions of sacrificial sites in OT and a tophet at Carthage, along with other sacred sites in Africa show the blood sacrifice- have vases with bones of infant humans and animals Shaw 240
+Excavation at Carthage showed 3,000 burial urns and stelae, many containing the bones of infants Shaw 241
+Sacrifices were described on stelae as return payment for a promise or vow Shaw 241
+Tertullian says that human sacrifice continued deep into the Roman period Shaw 242
+Five stelae to Saturn show that in 2nd and 3rd century CE there could be substitutes for human sacrifice, namely animals Shaw 243
+Stelae show that PUnic cult was practiced until 80s, when the Roman cult developed in Africa Shaw 245
+
+
+```
 
 Footnotes that could point to useful articles
+Turcan. "Cults of the Roman Empire"
+Cadotte. "Neptune Africain" chapter called "Romanisation des dieux"
+Leglay, "Saturn africain, Monuments"
