@@ -36,5 +36,7 @@ Sources in African Christianity-Tertullian, Minucius Felix, Clement of Alexandri
 African style? (McCracken's assertion)
 
 Subdivisions:
-
 Romanization
+African Religion up until Christianity
+Christianity in Africa
+What it means to be African- a multicultural identity
