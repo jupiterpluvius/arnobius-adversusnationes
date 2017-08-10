@@ -53,7 +53,21 @@ Excavation at Carthage showed 3,000 burial urns and stelae, many containing the 
 Sacrifices were described on stelae as return payment for a promise or vow Shaw 241
 Tertullian says that human sacrifice continued deep into the Roman period Shaw 242
 Five stelae to Saturn show that in 2nd and 3rd century CE there could be substitutes for human sacrifice, namely animals Shaw 243
-Stelae show that PUnic cult was practiced until 80s, when the Roman cult developed in Africa Shaw 245
+Stelae show that Punic cult was practiced until 80s, when the Roman cult developed in Africa Shaw 245
+Carthage was rebuilt in 30s BCE with new platforms and the major structures of the Roman state- showed establishment of cults of Roman deities Shaw 245
+Cyprian says that Christians were compelled to sacrifice in front of Capitolium of Carthage in first state Persecutions Shaw 246
+Tertullian says of the Capitolium "You overlords of the Roman empire, in public and on high, on the very summit of the city [sc. Carthage], there you preside to issue your judgments, openly to investigate matters and to examine us in public" Shaw 246
+Epigraphical texts show different order for pantheon of gods, with Saturn on top for the Africans Shaw 247
+Apuleius's Metamorphoses describe the revelation of Isis- a novelty and poster child for the cosmopolitanism of Africa Shaw 247
+Evidence of Cult of Saturn is concentrated in mid-Maghrib, with lists of worshippers containing no upper-class people, and portraits of Saturn show him as an overall central deity with defining rule of nature and the household Shaw 249
+Quodvultdeus says that there is an ornate temple of Caelestis at Carthage Shaw 249
+Votive altars to worship of imperial cult are Augustan era and show not much widespread practice, though there are altars and sacrifical scenes showing emperor's goodwill Shaw, 250
+Evidence for concilium provinciae? Shaw 251
+Dionysus depictions everywhere, continuation of Shadrapha cult Shaw 252
+Funerary monument with the mixing of Punic and Roman cultures and religious beliefs created an amalgam poem with confusions Shaw 253
+Tabellae defixionis shows that rural areas relied on ritual experts with magical powers, also noted by the Lambaesis Shaw 254
+Lack of evidence aside from dedicatory inscriptions and altars shows niche cults of Serapis and Mithras Shaw 257
+
 
 
 ```
@@ -62,3 +76,4 @@ Footnotes that could point to useful articles
 Turcan. "Cults of the Roman Empire"
 Cadotte. "Neptune Africain" chapter called "Romanisation des dieux"
 Leglay, "Saturn africain, Monuments"
+MacMullen. "Paganism in the Roman Empire, fig. p. 6"
