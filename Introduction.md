@@ -40,3 +40,7 @@ Romanization
 African Religion up until Christianity
 Christianity in Africa
 What it means to be African- a multicultural identity
+
+Factual, Primary Source References w/annotation:
+
+Footnotes that could point to useful articles
