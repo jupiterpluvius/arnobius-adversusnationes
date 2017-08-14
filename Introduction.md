@@ -47,19 +47,48 @@ Romanization
 
     Security creates opportunity for thriving literary scene?
 
+    Romans had an impact on official ritual as imperial state, provincial administration, and local municipal government pg 244
+    large-scale deliberate importing of official cult began in the Augustan age pg 244
+    Romans built public buildings in the Province, places where Christians would later have to make public sacrifices pg 245
+    Two sides say that cults were resistance to Romanization or were the modulation to mediate the cultural difference pg 258
+    subjugation, adaptation, resistance, accommodation, creolization, power negotiations are all possible tensions between African religion and Romanization pg 259
+    Many other redistributions occurred, like under Diocletian, supporting Romanization and administration of the frontiers pg 383
+    Romanization was strongest in coastal and military areas, but not all cities had Roman mores or govt pg 383
+    Some Romanization of architecture and names occurred, but only when it was to the advantage of the Africans to use it pg 384
 
-African Religion up until Christianity
-Beliefs of Pre-Roman African religion- henotheism, Saturn, rocks, sacrifice, old gods, sacred prostitution
+African Religion up until Christianity (also has elements of henotheism)
+
+    Even before the arrival of Roman paganism in Africa, there was an eclectic mix of beliefs throughout the area. While there are some characteristics of the indigenous religion that permeate Africa, each village and valley had a unique set of practices and deities that were inculcated in daily life. Because of the dependence on oral communication, much of the early religion of the area is lost. With the arrival of Punic religion, a henotheistic form of paganism began to emerge with the central god Ba'al Hammon. A main tenet of the African form of paganism was the establishment of a cult of the dead, which contained the deified spirits of ancestors. These ancestral gods would bring information to the living world through dreams. The north Africans also worshipped rocks as part of their megalithic culture, which explains Arnobius’s comment about recently having venerated stones when he was still a pagan (1.39). African paganism was also very reliant on sacrifice, believing that human blood had the power to appease the gods. This was a permanent and normal part of Punic culture. Tertullian affirms this practice in his (INSERT CITATION).
+
+    With the arrival of Roman paganism, the Graeco-Roman gods began to merge with local deities. After 146 BCE, there is evidence of these deities being mixed with aspects of others, creating unique, localized cults. The Roman god Saturn had a significant cult in north Africa, as Saturn became conflated with the central Punic god Ba'al Hammon. This cult was particularly prominent in the province of Africa Proconsularis, and was pervasive in African practice during the Roman empire, explaining Arnobius's desire to specifically address the worship of Saturn (Citation). In this way, pagans continued to worship the same deity, albeit under a different name. Other prominent cults included that of Jupiter, Silvanus, Isis, and Serapis. The Romans also attempted to encourage the worship of the official cult of the emperor, as this added legitimacy to the reign of the emperor. It seems that this cult was tenuous in Africa, as Diocletian eventually created *concilium provinciae* for the purpose of regulating and reforming this cult in public practice. In most towns, even the elites who desired to mimic Roman life created and developed local versions of the official cult of Rome. These micro-cults, along with personal ideals, created a fragmentary effect on African religion that would persist throughout the next several centuries. The hybrid of these religions would create the distinct and new branch of paganism that Arnobius would polemicize in Adversus Nationes. Until and even after Christianity's arrival, this strange array of religions persisted.
+
+
 
 Christianity in Africa
 
-    Overall, African Christians had a somewhat different set of values from European Christians of the time. In particular, they valued individual and communal purity, the idea that "mother Church" held the saving sacraments, the truth of prophecy, dreams and visions, and the meaning behind martyrdom and sacrifice.[^footnote1] However, just like the indigenous African religion, these were just some of the overarching beliefs of the area. Each community had its unique set of characteristics, which explains the fact that Arnobius agrees with only some of these ideas. This overarching stereotype of African Christianity may have compelled Jerome's description of Arnobius's conversion, saying that he was led to the faith through dreams. This would be a sensible story for an African Christian- however, Arnobius decries this practice in (INSERT CITATION)
+    Overall, African Christians had a somewhat different set of values from European Christians of the time. In particular, they valued individual and communal purity, the idea that "mother Church" held the saving sacraments, the truth of prophecy, dreams and visions, and the meaning behind martyrdom and sacrifice.[^footnote1] African Christianity was literalistic and legalistic in its approach to religion- the Church leaders wished to approach and solve problems in a pragmatic way. Overall, this led to an inclination towards literal and strict interpretations of scripture and morality. However, just like the indigenous African religion, these were just some of the overarching beliefs of the area. Each community had its unique set of characteristics, which explains the fact that Arnobius agrees with only some of these ideas. This overarching stereotype of African Christianity may have compelled Jerome's description of Arnobius's conversion, saying that he was led to the faith through dreams. This would be a sensible story for an African Christian- however, Arnobius decries this practice in (INSERT CITATION)
 
-    Even before the time of Arnobius, Tertullian claimed that each city in Africa was majority Christian. [^footnote3] While this may have been an exaggeration,
+    Christianity had a disruptive influence in Africa, as it brought a new set of beliefs and ideals to the a culture with ingrained religious practices.
 
-    Sicca as a major Christian center
+    Even before the time of Arnobius, Tertullian claimed that each city in Africa was majority Christian. [^footnote3] While this may have been an exaggeration, there is evidence that a great number of Christian bishops gathered in Carthage for a council in the year 180. These bishops would gather to discuss matters of theology and practice, but each bishop decided for himself what his community would follow. This was yet another factor influencing the fragmentary nature of Christianity at the time. It is possible that the local practices sprung up due to low numbers and high distances between each city, so when the bishops would meet, they had different perspectives on what was right for their Christians. Some of the issues that arose included determining if the Church could reconcile with those who sinned after baptism. This created divisions among the African Church, eventually leading to the violent Donatist controversy.
+
+
+    Sicca, the town in which Arnobius taught rhetoric, was known as a major Christian center.
 
     Participation in Persecution
+    Christianity was persecuted by the Romans throughout its existence to promote uniformity and
+    Christians in Africa persecuted intermittently from 180-305 pg 387
+    "In assessing the strength and effects of persecution, one must recognize that not all Christians in every area of the empire were persecuted at the same time in the same way. Even imperial edicts designed to promote empire-wide uniformity depended upon local enforcement which may have been sporadic or non-existent in one place while sustained and severe elsewhere.
+
+    During the persecution, "the ambient ideal of human sacriﬁce, whether in war or at the altar, supported the Christian notion of the acceptability of offering one’s life in ﬁdelity, but it should be noted that no motifs of human sacriﬁce directly color martyrdom narratives"
+    Had many martyrdom stories, like proconsul treating nicely but Christians would not worship the emperor pg 388
+    Septimius Severus made Christianity illegal pg 388
+    Persecuted during the 250s by Decius during time of trouble to ensure pax deorum. Many Christians were exiled or killed pg 389
+    Valerian enacted many practices that hurt Christians, like not allowing Christians  pg 390
+    Cyprian was executed in 258 for his status pg 390
+    many martyrs and confessors were held in high esteem leading up to Diocletian pg 391
+    Christians rationalized their fidelity with Apologetic works- wrote absurdity of traditional cults pg 392
+    "Christians claimed to be plain-living and morally upright. Their lack of ease with the ambient culture played out in paradoxical ways. Tertullian’s expressed disdain for philosophy and dialectic (Spect. 18, An. 3) and Arnobius’ rejection of rhetoric (Adv. nat. 1.59) are summed up in Tertullian’s famous aphorism, ‘What is there in common between Athens and Jerusalem, between academe and church, between heretics and Christians?’ (Praescr. 7), yet even this is expressed in the best classical style" pg 392
 
 What it means to be African- a multicultural identity (may need to merge with Romanization section- lots of overlap)
 
@@ -67,7 +96,7 @@ What it means to be African- a multicultural identity (may need to merge with Ro
 
     Both in spite of and because of Romanization, there arose a strong identity for Africans. Like African religion, many areas and peoples had local claims to which they were devoted. While these localized identities may have been emphasized more before the Roman governance, the encompassing African identity arose due to it. While this may seem counterintuitive, some Africans reacted against Romanization, rather creating a stronger identity for Africans "the social identity of groups is constructed out of circumstances of high-pressure factors-above all, warfare-that link diverse ethnic groups under a new single identity" pg 537. A common identity came about in order to protect Africans against the tide of Romanization. The ethnic infighting among the Africans would not cease, but local claims became less important as a dichotomy of Romans and Africans emerged. On the other hand, many considered themselves both Roman and part of their African ethnic group, creating a blended, multicultural identity.
 
-    Arnobius’s African background also heavily influenced his scholarly pursuits. Although he was Berber, a group indigenous to North Africa, the area was Romanized, meaning he would have spoken and read Latin. Adversus Nationes was based on Arnobius’s understanding of a few Christian works, namely Clement of Alexandria's Protrepticus, Tertullian's Apologeticum, and the Octavius of Minucius Felix . The fact that all three of these men were African shows a level of nationalism and pride for the literary pursuits of his fellow Africans, along with a level of comfort with their writing style. Some scholars go so far as to describe Arnobius’s peculiarities as representative of the African style (though that should not necessarily be viewed as a compliment).
+    Arnobius’s African background also heavily influenced his scholarly pursuits. Although he was Berber, a group indigenous to North Africa, he would have spoken and read Latin. Adversus Nationes was based on Arnobius’s understanding of a few Christian works, namely Clement of Alexandria's Protrepticus, Tertullian's Apologeticum, and the Octavius of Minucius Felix. The fact that all three of these men were African shows a level of nationalism and pride for the literary pursuits of his fellow Africans, along with a level of comfort with their writing style. Some scholars go so far as to describe Arnobius’s peculiarities as representative of the African style (though that should not necessarily be viewed as a compliment).
 
 
 
