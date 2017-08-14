@@ -35,14 +35,15 @@ Participation in Persecution
 Sources in African Christianity-Tertullian, Minucius Felix, Clement of Alexandria etc.
 African style? (McCracken's assertion)
 
-Subdivisions:
+Subdivisions (Think about order):
 Romanization
 African Religion up until Christianity
 Christianity in Africa
+    Overall, African Christians had a somewhat different set of values from European Christians of the time. In particular, they valued individual and communal purity, the idea that "mother Church" held the saving sacraments, the truth of prophecy, dreams and visions, and the meaning behind martyrdom and sacrifice. However, just like the indigenous African religion, these were just some of the overarching beliefs of the area. Each community had its unique set of characteristics, which explains the fact that Arnobius agrees with some of these positions but not all of them.
 What it means to be African- a multicultural identity
 
 Factual, Primary Source References w/annotation:
-The little material or archaelogical evidence for 8th century BCE African religion suggests a generalized connection with animating forces of nature Shaw 237
+The little material or archaeological evidence for 8th century BCE African religion suggests a generalized connection with animating forces of nature Shaw 237
 Concentration of shrines and dedications to Neptune show continuity of religions Shaw 237
 Annual journey to the mountain cave for sacrificing (inscription) Shaw 238
   Another one in Cirta Shaw 238
@@ -67,6 +68,7 @@ Dionysus depictions everywhere, continuation of Shadrapha cult Shaw 252
 Funerary monument with the mixing of Punic and Roman cultures and religious beliefs created an amalgam poem with confusions Shaw 253
 Tabellae defixionis shows that rural areas relied on ritual experts with magical powers, also noted by the Lambaesis Shaw 254
 Lack of evidence aside from dedicatory inscriptions and altars shows niche cults of Serapis and Mithras Shaw 257
+
 
 
 
