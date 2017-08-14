@@ -37,23 +37,29 @@ African style? (McCracken's assertion)
 
 Subdivisions (Think about order):
 Romanization
-    The Romans began their dominion over north Africa with the creation of the province of Africa Proconsularis in 146 BCE.
+    The Romans began their dominion over north Africa with the creation of the province of Africa Proconsularis in 146 BCE. When the Romans controlled new territories, they would enact a process which modern historians refer to as "Romanization". This term describes the political and cultural dominance of the Romans over any indigenous peoples, usually through the combining of native ideals with Roman ones. This injection of Roman culture would occur throughout all facets of life, including language, religion, and architecture. In Africa, this took shape under a few different directives and imperial laws. While tribes would ostensibly keep much of their own law under the Romans, the government would manipulate the affairs of these groups by placing a praefectus gentis in charge of recruiting members of the army from the group. Romans would assign tribal lands to groups in order to formally recognize them, which would allow legal interaction between these groups and the government. While some Roman territories became "civilized" easily, many Africans resisted Roman interventions culturally and militarily.
+    Overall, Romano-African society was something distinct altogether from its predecessors and other parts of the Empire, exemplified by “outward symbols of civilization (art, architecture, iconography, literature, dedications, etc.) [which] exhibit, each in their own way, a search for accommodation and common meaning between the Roman state and the African society.”  
 
     At the time of Arnobius, the African population was comprised of African and Punic peoples who had married Romans as well as other immigrant groups. The native African languages of Libyan and Punic remained somewhat common in rural areas, but Latin was the language of commerce as well as scholarly pursuits. [^footnote 2]
     Roman Army had cohorts of Africans pg 528
     The govt would manipulate the affairs of these groups by placing a praefectus gentis in charge of army recruiting in the group pg 534
     tribes would keep much of their own law under the Romans pg 535
 
-    Romans would assign tribal lands to groups to formally recognize them, allowing interaction between groups and the state pg 533
+    Security creates opportunity for thriving literary scene?
+
 
 African Religion up until Christianity
-
+Beliefs of Pre-Roman African religion- henotheism, Saturn, rocks, sacrifice, old gods, sacred prostitution
 
 Christianity in Africa
 
     Overall, African Christians had a somewhat different set of values from European Christians of the time. In particular, they valued individual and communal purity, the idea that "mother Church" held the saving sacraments, the truth of prophecy, dreams and visions, and the meaning behind martyrdom and sacrifice.[^footnote1] However, just like the indigenous African religion, these were just some of the overarching beliefs of the area. Each community had its unique set of characteristics, which explains the fact that Arnobius agrees with only some of these ideas. This overarching stereotype of African Christianity may have compelled Jerome's description of Arnobius's conversion, saying that he was led to the faith through dreams. This would be a sensible story for an African Christian- however, Arnobius decries this practice in (INSERT CITATION)
 
     Even before the time of Arnobius, Tertullian claimed that each city in Africa was majority Christian. [^footnote3] While this may have been an exaggeration,
+
+    Sicca as a major Christian center
+
+    Participation in Persecution
 
 What it means to be African- a multicultural identity (may need to merge with Romanization section- lots of overlap)
 
