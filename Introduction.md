@@ -37,26 +37,12 @@ African style? (McCracken's assertion)
 
 Subdivisions (Think about order):
 Romanization
-    The Romans began their dominion over north Africa with the creation of the province of Africa Proconsularis in 146 BCE. When the Romans controlled new territories, they would enact a process which modern historians refer to as "Romanization". This term describes the political and cultural dominance of the Romans over any indigenous peoples, usually through the combining of native ideals with Roman ones. This injection of Roman culture would occur throughout all facets of life, including language, religion, and architecture. In Africa, this took shape under a few different directives and imperial laws. While tribes would ostensibly keep much of their own law under the Romans, the government would manipulate the affairs of these groups by placing a praefectus gentis in charge of recruiting members of the army from the group. Romans would assign tribal lands to groups in order to formally recognize them, which would allow legal interaction between these groups and the government. While some Roman territories became "civilized" easily, many Africans resisted Roman interventions culturally and militarily.
-    Overall, Romano-African society was something distinct altogether from its predecessors and other parts of the Empire, exemplified by “outward symbols of civilization (art, architecture, iconography, literature, dedications, etc.) [which] exhibit, each in their own way, a search for accommodation and common meaning between the Roman state and the African society.”  
+    The Romans began their dominion over north Africa with the creation of the province of Africa Proconsularis in 146 BCE. When the Romans controlled new territories, they would enact a process which modern historians refer to as "Romanization". This term describes the political and cultural dominance of the Romans over any indigenous peoples, usually through the combining of native ideals with Roman ones. This injection of Roman culture would occur throughout all facets of life, including language, religion, and architecture. In Africa, this took shape under a few different directives and imperial laws. While tribes would ostensibly keep much of their own law under the Romans, the government would manipulate the affairs of these groups by placing a praefectus gentis in charge of recruiting members of the army from the group. Romans would assign tribal lands to groups in order to formally recognize them, which would allow legal interaction between these groups and the government. While some Roman territories became "civilized" easily, many Africans resisted Roman interventions culturally and militarily. As a result, the Romans enacted deliberate importations of cultural elements such as the official cult of the empire. They built public buildings, the same as those in Rome, to make each city feel more Roman. Under Diocletian, many redistributions of the provinces occured in order to administrate the frontiers of the province more easily. Romanization was strongest in the coastal and military areas, but not all African cities took quickly to Roman mores and government. Overall, Romano-African society was something distinct altogether from its predecessors and other parts of the Empire, exemplified by “outward symbols of civilization (art, architecture, iconography, literature, dedications, etc.) [which] exhibit, each in their own way, a search for accommodation and common meaning between the Roman state and the African society.” Romanization took hold in Africa when it was advantageous for the Africans to allow it.
 
-    At the time of Arnobius, the African population was comprised of African and Punic peoples who had married Romans as well as other immigrant groups. The native African languages of Libyan and Punic remained somewhat common in rural areas, but Latin was the language of commerce as well as scholarly pursuits. [^footnote 2]
-    Roman Army had cohorts of Africans pg 528
-    The govt would manipulate the affairs of these groups by placing a praefectus gentis in charge of army recruiting in the group pg 534
-    tribes would keep much of their own law under the Romans pg 535
+    At the time of Arnobius, the African population was comprised of African and Punic peoples who had married Romans as well as other immigrant groups. The native African languages of Libyan and Punic remained somewhat common in rural areas, but Latin was the language of commerce as well as scholarly pursuits. [^footnote 2]. The Romans controlled the interactions of African groups through provincial administration and local governments. The tension between African identity and Romanization was particularly prevalent in the realm of religion.
 
-    Security creates opportunity for thriving literary scene?
 
-    Romans had an impact on official ritual as imperial state, provincial administration, and local municipal government pg 244
-    large-scale deliberate importing of official cult began in the Augustan age pg 244
-    Romans built public buildings in the Province, places where Christians would later have to make public sacrifices pg 245
-    Two sides say that cults were resistance to Romanization or were the modulation to mediate the cultural difference pg 258
-    subjugation, adaptation, resistance, accommodation, creolization, power negotiations are all possible tensions between African religion and Romanization pg 259
-    Many other redistributions occurred, like under Diocletian, supporting Romanization and administration of the frontiers pg 383
-    Romanization was strongest in coastal and military areas, but not all cities had Roman mores or govt pg 383
-    Some Romanization of architecture and names occurred, but only when it was to the advantage of the Africans to use it pg 384
-
-African Religion up until Christianity (also has elements of henotheism)
+African Religion up until Christianity
 
     Even before the arrival of Roman paganism in Africa, there was an eclectic mix of beliefs throughout the area. While there are some characteristics of the indigenous religion that permeate Africa, each village and valley had a unique set of practices and deities that were inculcated in daily life. Because of the dependence on oral communication, much of the early religion of the area is lost. With the arrival of Punic religion, a henotheistic form of paganism began to emerge with the central god Ba'al Hammon. A main tenet of the African form of paganism was the establishment of a cult of the dead, which contained the deified spirits of ancestors. These ancestral gods would bring information to the living world through dreams. The north Africans also worshipped rocks as part of their megalithic culture, which explains Arnobius’s comment about recently having venerated stones when he was still a pagan (1.39). African paganism was also very reliant on sacrifice, believing that human blood had the power to appease the gods. This was a permanent and normal part of Punic culture. Tertullian affirms this practice in his (INSERT CITATION).
 
@@ -76,27 +62,17 @@ Christianity in Africa
     Sicca, the town in which Arnobius taught rhetoric, was known as a major Christian center.
 
     Participation in Persecution
-    Christianity was persecuted by the Romans throughout its existence to promote uniformity and
-    Christians in Africa persecuted intermittently from 180-305 pg 387
-    "In assessing the strength and effects of persecution, one must recognize that not all Christians in every area of the empire were persecuted at the same time in the same way. Even imperial edicts designed to promote empire-wide uniformity depended upon local enforcement which may have been sporadic or non-existent in one place while sustained and severe elsewhere.
+    Christianity was persecuted by the Romans throughout its existence to promote uniformity and keep the *pax deorum* of the Roman Empire. As a result, African Christians were persecuted intermittently from 180-305 CE, even by the African emperor Septimius Severus who declared Christianity illegal. The evidence suggests that, while some African Christians complied with the Roman demands of sacrifice and paganism, others were staunch in the face of adversity. Many Africans still believed in "the ambient ideal of human sacriﬁce, whether in war or at the altar, support[ing] the Christian notion of the acceptability of offering one’s life in ﬁdelity- but it should be noted that no motifs of human sacriﬁce directly color martyrdom narratives." There are many stories of martyrdoms that were publicized as *acta* to inspire other Christians. Not even the educated elite were spared, as the author Cyprian was executed in 258 for his status as a Christian. Christians also fought back against the persecution by writing apologetics of Christianity and polemics against paganism that declared the utter absurdity of traditional cult worship. The Christians felt they were morally upright in this situation, so they continued to fight against the pagan establishment.
 
-    During the persecution, "the ambient ideal of human sacriﬁce, whether in war or at the altar, supported the Christian notion of the acceptability of offering one’s life in ﬁdelity, but it should be noted that no motifs of human sacriﬁce directly color martyrdom narratives"
-    Had many martyrdom stories, like proconsul treating nicely but Christians would not worship the emperor pg 388
-    Septimius Severus made Christianity illegal pg 388
-    Persecuted during the 250s by Decius during time of trouble to ensure pax deorum. Many Christians were exiled or killed pg 389
-    Valerian enacted many practices that hurt Christians, like not allowing Christians  pg 390
-    Cyprian was executed in 258 for his status pg 390
-    many martyrs and confessors were held in high esteem leading up to Diocletian pg 391
-    Christians rationalized their fidelity with Apologetic works- wrote absurdity of traditional cults pg 392
-    "Christians claimed to be plain-living and morally upright. Their lack of ease with the ambient culture played out in paradoxical ways. Tertullian’s expressed disdain for philosophy and dialectic (Spect. 18, An. 3) and Arnobius’ rejection of rhetoric (Adv. nat. 1.59) are summed up in Tertullian’s famous aphorism, ‘What is there in common between Athens and Jerusalem, between academe and church, between heretics and Christians?’ (Praescr. 7), yet even this is expressed in the best classical style" pg 392
+    Evidence for weakness of persecution in Africa??
 
 What it means to be African- a multicultural identity (may need to merge with Romanization section- lots of overlap)
 
     Understanding Arnobius's identity as an African is crucial, because the blend of Roman and African cultures created a distinct background and lens through which Arnobius viewed paganism, Christianity, and society. By the time of Arnobius, there was a sense of pride attached to the national identity of Africans. [^footnote Shaw 527] The fact that Arnobius is referred to as "Afer", a Roman cognomen denoting a relationship to Africa, shows his connection to the culture- his name itself referred to his cultural heritage. Some other famous North Africans are generally referred to by this name, including Terence. This shows the level to which this identity was valued by the inhabitants of Africa. Even those Africans who seemed "as Roman as could be" still retained this ethnic identity.
 
-    Both in spite of and because of Romanization, there arose a strong identity for Africans. Like African religion, many areas and peoples had local claims to which they were devoted. While these localized identities may have been emphasized more before the Roman governance, the encompassing African identity arose due to it. While this may seem counterintuitive, some Africans reacted against Romanization, rather creating a stronger identity for Africans "the social identity of groups is constructed out of circumstances of high-pressure factors-above all, warfare-that link diverse ethnic groups under a new single identity" pg 537. A common identity came about in order to protect Africans against the tide of Romanization. The ethnic infighting among the Africans would not cease, but local claims became less important as a dichotomy of Romans and Africans emerged. On the other hand, many considered themselves both Roman and part of their African ethnic group, creating a blended, multicultural identity.
+    Both in spite of and because of Romanization, there arose a strong identity for Africans. Like African religion, many areas and peoples had local claims to which they were devoted. While these localized identities may have been emphasized more before the Roman governance, the encompassing African identity arose due to it. While this may seem counterintuitive, some Africans reacted against Romanization, rather creating a stronger identity for Africans "the social identity of groups is constructed out of circumstances of high-pressure factors-above all, warfare-that link diverse ethnic groups under a new single identity" pg 537. A common identity came about in order to protect Africans against the tide of Romanization. The African cults were either a resistance to Romanization, or were an attempt to mediate the cultural difference by maintaining a sense of African identity. The ethnic infighting among the Africans would not cease, but local claims became less important as a dichotomy of Romans and Africans emerged. On the other hand, many considered themselves both Roman and part of their African ethnic group, creating a blended, multicultural identity.
 
-    Arnobius’s African background also heavily influenced his scholarly pursuits. Although he was Berber, a group indigenous to North Africa, he would have spoken and read Latin. Adversus Nationes was based on Arnobius’s understanding of a few Christian works, namely Clement of Alexandria's Protrepticus, Tertullian's Apologeticum, and the Octavius of Minucius Felix. The fact that all three of these men were African shows a level of nationalism and pride for the literary pursuits of his fellow Africans, along with a level of comfort with their writing style. Some scholars go so far as to describe Arnobius’s peculiarities as representative of the African style (though that should not necessarily be viewed as a compliment).
+    Arnobius’s African background also heavily influenced his scholarly pursuits. Although he was Berber, a group indigenous to North Africa, he would have spoken and read Latin. Adversus Nationes was based on Arnobius’s understanding of a few Christian works, namely Clement of Alexandria's Protrepticus, Tertullian's Apologeticum, and the Octavius of Minucius Felix. The fact that all three of these men were African shows a level of nationalism and pride for the literary pursuits of his fellow Africans, along with a level of comfort with their writing style.
 
 
 
@@ -135,7 +111,20 @@ Tertullian claimed that Christians constituted a majority in every city Jensen 2
 Cyprian talks about the councils of Carthage being well attended Jensen 266
 Tertullian claims that Christians could be found throughout socioeconomic realm Jensen 268
 Tertullian denounces heretical groups, including a group undergoing deviant ritual practices at the behest of a magic woman Jensen 269
-
+Caecilian elected bishop of Carthage in 311 Jensen 272
+Earliest literary reference to churhc buildings is 4th c Tilley 381
+Catacombs testify early Christianity in Africa Tilley 382
+Capitoline temples were dedicated to Roman pantheon in Punic areas Tilley 385
+Cultic remnants show sacrifice and libation Tilley 385
+Oldest African writing (180) mentions Christians Tilley 386
+Traditores were given libelli which certified compliance Tilley 389
+Upper class members were not spared (Cyp. Ep. 80) Tilley 390
+Literary evidence of cult of martyrs Tilley 391
+Different theological viewpoints have evidence of African writers Tilley 393-4
+Tertullian and Apuleius both used ethnic identity for their own advantages in writing and court proceeding Shaw 531
+285 named African ethnic groups listed by Ptolemy Shaw 534
+Epigraphical text reveals Roman citizenship as operable along with local ethnic organization Shaw 535
+Gaetuli and Numidians are referenced as barbarians and upper class by Tertullian Shaw 536
 
 
 ```
@@ -145,7 +134,7 @@ Turcan. "Cults of the Roman Empire"
 Cadotte. "Neptune Africain" chapter called "Romanisation des dieux"
 Leglay, "Saturn africain, Monuments"
 MacMullen. "Paganism in the Roman Empire, fig. p. 6"
-
-
+MacMullen, Romanization 43.5
+Moderan, Yves 2008 Des maures aux Berberes: itdentite et ethnicite...
 
 How much of the evidence stuff do I include?
